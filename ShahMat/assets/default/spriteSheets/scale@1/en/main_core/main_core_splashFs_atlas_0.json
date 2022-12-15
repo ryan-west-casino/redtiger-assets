@@ -1,0 +1,33 @@
+{
+  "frames": {
+    "freeSpinsSplashGlow": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 577,
+        "h": 423
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 577,
+        "h": 423
+      },
+      "sourceSize": {
+        "w": 573,
+        "h": 419
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "main_core_splashFs_atlas_0.png?c=b4e92c394d",
+    "size": {
+      "w": 1024,
+      "h": 512
+    }
+  }
+}

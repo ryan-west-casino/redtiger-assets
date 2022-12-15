@@ -1,0 +1,393 @@
+{
+  "frames": {
+    "superWin": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1283,
+        "h": 218
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 29,
+        "w": 1283,
+        "h": 218
+      },
+      "sourceSize": {
+        "w": 1350,
+        "h": 245
+      }
+    },
+    "megaWin": {
+      "frame": {
+        "x": 1283,
+        "y": 0,
+        "w": 1216,
+        "h": 218
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 29,
+        "w": 1216,
+        "h": 218
+      },
+      "sourceSize": {
+        "w": 1350,
+        "h": 245
+      }
+    },
+    "instantWin": {
+      "frame": {
+        "x": 0,
+        "y": 218,
+        "w": 1135,
+        "h": 218
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 28,
+        "w": 1135,
+        "h": 218
+      },
+      "sourceSize": {
+        "w": 1350,
+        "h": 244
+      }
+    },
+    "totalWin": {
+      "frame": {
+        "x": 0,
+        "y": 436,
+        "w": 1052,
+        "h": 218
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 149,
+        "y": 28,
+        "w": 1052,
+        "h": 218
+      },
+      "sourceSize": {
+        "w": 1350,
+        "h": 244
+      }
+    },
+    "bigWin": {
+      "frame": {
+        "x": 1052,
+        "y": 436,
+        "w": 1034,
+        "h": 218
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 158,
+        "y": 29,
+        "w": 1034,
+        "h": 218
+      },
+      "sourceSize": {
+        "w": 1350,
+        "h": 245
+      }
+    },
+    "headerBanner4": {
+      "frame": {
+        "x": 0,
+        "y": 654,
+        "w": 893,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 0,
+        "w": 893,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 900,
+        "h": 200
+      }
+    },
+    "headerBanner2": {
+      "frame": {
+        "x": 0,
+        "y": 828,
+        "w": 865,
+        "h": 204
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": -2,
+        "w": 865,
+        "h": 204
+      },
+      "sourceSize": {
+        "w": 900,
+        "h": 200
+      }
+    },
+    "freeSpinsSplashText": {
+      "frame": {
+        "x": 893,
+        "y": 654,
+        "w": 850,
+        "h": 139
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 21,
+        "w": 850,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 1000,
+        "h": 180
+      }
+    },
+    "headerBanner5": {
+      "frame": {
+        "x": 1270,
+        "y": 1216,
+        "w": 748,
+        "h": 182
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 13,
+        "w": 748,
+        "h": 182
+      },
+      "sourceSize": {
+        "w": 900,
+        "h": 200
+      }
+    },
+    "headerBanner3": {
+      "frame": {
+        "x": 1270,
+        "y": 1398,
+        "w": 738,
+        "h": 204
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": -2,
+        "w": 738,
+        "h": 204
+      },
+      "sourceSize": {
+        "w": 900,
+        "h": 200
+      }
+    },
+    "splashMultiText": {
+      "frame": {
+        "x": 0,
+        "y": 1032,
+        "w": 653,
+        "h": 135
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 22,
+        "w": 653,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 800,
+        "h": 180
+      }
+    },
+    "freeSpinsSplashText2": {
+      "frame": {
+        "x": 0,
+        "y": 1504,
+        "w": 511,
+        "h": 264
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": -1,
+        "w": 511,
+        "h": 264
+      },
+      "sourceSize": {
+        "w": 566,
+        "h": 262
+      }
+    },
+    "headerBanner1": {
+      "frame": {
+        "x": 264,
+        "y": 1504,
+        "w": 491,
+        "h": 73
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 204,
+        "y": 65,
+        "w": 491,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 900,
+        "h": 200
+      }
+    },
+    "splashMultiTxt": {
+      "frame": {
+        "x": 0,
+        "y": 1167,
+        "w": 309,
+        "h": 144
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 23,
+        "w": 309,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 340,
+        "h": 190
+      }
+    },
+    "tile18Text": {
+      "frame": {
+        "x": 144,
+        "y": 1167,
+        "w": 257,
+        "h": 134
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": -2,
+        "w": 257,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 264,
+        "h": 130
+      }
+    },
+    "freeSpin": {
+      "frame": {
+        "x": 1032,
+        "y": 1470,
+        "w": 225,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 7,
+        "w": 225,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 240,
+        "h": 126
+      }
+    },
+    "freeSpins": {
+      "frame": {
+        "x": 653,
+        "y": 1032,
+        "w": 225,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 7,
+        "w": 225,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 240,
+        "h": 126
+      }
+    },
+    "lastSpin": {
+      "frame": {
+        "x": 1135,
+        "y": 218,
+        "w": 139,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 50,
+        "y": 6,
+        "w": 139,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 240,
+        "h": 126
+      }
+    },
+    "spins": {
+      "frame": {
+        "x": 1135,
+        "y": 338,
+        "w": 131,
+        "h": 50
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 7,
+        "w": 131,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 62
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "main_default_atlas_0.png?c=92bbb4f025",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "frames": {
+    "tile12Shadow": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 187
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 240,
+        "h": 187
+      },
+      "sourceSize": {
+        "w": 236,
+        "h": 183
+      }
+    },
+    "fireGlow": {
+      "frame": {
+        "x": 240,
+        "y": 0,
+        "w": 208,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 208,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 204,
+        "h": 84
+      }
+    },
+    "tile11Reflection": {
+      "frame": {
+        "x": 448,
+        "y": 0,
+        "w": 168,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 168,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 164,
+        "h": 82
+      }
+    },
+    "goldenGlow": {
+      "frame": {
+        "x": 616,
+        "y": 0,
+        "w": 44,
+        "h": 155
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -1,
+        "y": 0,
+        "w": 44,
+        "h": 155
+      },
+      "sourceSize": {
+        "w": 41,
+        "h": 154
+      }
+    },
+    "shineFrame": {
+      "frame": {
+        "x": 771,
+        "y": 0,
+        "w": 34,
+        "h": 145
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 34,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 141
+      }
+    },
+    "shineFrame1": {
+      "frame": {
+        "x": 916,
+        "y": 0,
+        "w": 34,
+        "h": 145
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 34,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 141
+      }
+    },
+    "winLinesBlink": {
+      "frame": {
+        "x": 1061,
+        "y": 0,
+        "w": 121,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 121,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 117,
+        "h": 112
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "main_core_80_100_atlas_0.png?c=1f2eff34cd",
+    "size": {
+      "w": 2048,
+      "h": 256
+    }
+  }
+}

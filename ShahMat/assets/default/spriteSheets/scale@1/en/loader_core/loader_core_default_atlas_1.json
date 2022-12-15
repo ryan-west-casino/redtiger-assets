@@ -1,0 +1,173 @@
+{
+  "frames": {
+    "paytable1Wild1": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 671,
+        "h": 717
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 671,
+        "h": 717
+      },
+      "sourceSize": {
+        "w": 667,
+        "h": 713
+      }
+    },
+    "slotOrnamentDown": {
+      "frame": {
+        "x": 0,
+        "y": 717,
+        "w": 651,
+        "h": 442
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 651,
+        "h": 442
+      },
+      "sourceSize": {
+        "w": 647,
+        "h": 438
+      }
+    },
+    "tile9Fat4x4King": {
+      "frame": {
+        "x": 0,
+        "y": 1368,
+        "w": 524,
+        "h": 589
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 524,
+        "h": 589
+      },
+      "sourceSize": {
+        "w": 520,
+        "h": 585
+      }
+    },
+    "paytable1Wild2": {
+      "frame": {
+        "x": 442,
+        "y": 717,
+        "w": 383,
+        "h": 503
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 383,
+        "h": 503
+      },
+      "sourceSize": {
+        "w": 379,
+        "h": 499
+      }
+    },
+    "logoTxt": {
+      "frame": {
+        "x": 0,
+        "y": 1957,
+        "w": 472,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 5,
+        "w": 472,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 524,
+        "h": 108
+      }
+    },
+    "paytable1Wild3": {
+      "frame": {
+        "x": 671,
+        "y": 0,
+        "w": 340,
+        "h": 416
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 340,
+        "h": 416
+      },
+      "sourceSize": {
+        "w": 336,
+        "h": 412
+      }
+    },
+    "sceneCardOrnament2": {
+      "frame": {
+        "x": 671,
+        "y": 416,
+        "w": 341,
+        "h": 236
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 341,
+        "h": 236
+      },
+      "sourceSize": {
+        "w": 337,
+        "h": 232
+      }
+    },
+    "paytable1Wild1Shadow": {
+      "frame": {
+        "x": 1011,
+        "y": 0,
+        "w": 248,
+        "h": 327
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 248,
+        "h": 327
+      },
+      "sourceSize": {
+        "w": 244,
+        "h": 323
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "loader_core_default_atlas_1.png?c=17ba04fb05",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "frames": {
+    "shiftSplashCharacter": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1256,
+        "h": 805
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 1256,
+        "h": 805
+      },
+      "sourceSize": {
+        "w": 1252,
+        "h": 801
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "loader_core_red_atlas_0.png?c=2b11537eff",
+    "size": {
+      "w": 2048,
+      "h": 1024
+    }
+  }
+}

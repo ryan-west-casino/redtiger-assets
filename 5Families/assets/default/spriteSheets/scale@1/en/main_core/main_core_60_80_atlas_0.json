@@ -1,0 +1,373 @@
+{
+  "frames": {
+    "tile100Glow": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 443,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 443,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 439,
+        "h": 432
+      }
+    },
+    "tile4Briefcase": {
+      "frame": {
+        "x": 443,
+        "y": 0,
+        "w": 247,
+        "h": 215
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 247,
+        "h": 215
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 211
+      }
+    },
+    "tile1Shadow": {
+      "frame": {
+        "x": 690,
+        "y": 0,
+        "w": 244,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 244,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 240,
+        "h": 145
+      }
+    },
+    "tile4Reflection": {
+      "frame": {
+        "x": 934,
+        "y": 0,
+        "w": 244,
+        "h": 139
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 244,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 240,
+        "h": 135
+      }
+    },
+    "tile3Shadow1": {
+      "frame": {
+        "x": 1178,
+        "y": 0,
+        "w": 240,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 240,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 236,
+        "h": 170
+      }
+    },
+    "tile2GlassBack": {
+      "frame": {
+        "x": 934,
+        "y": 139,
+        "w": 196,
+        "h": 157
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 196,
+        "h": 157
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 153
+      }
+    },
+    "tile2GlassFront": {
+      "frame": {
+        "x": 690,
+        "y": 149,
+        "w": 194,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 194,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 170
+      }
+    },
+    "tile3Cards": {
+      "frame": {
+        "x": 443,
+        "y": 215,
+        "w": 172,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 172,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 94
+      }
+    },
+    "tile3Shadow2": {
+      "frame": {
+        "x": 443,
+        "y": 313,
+        "w": 160,
+        "h": 169
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 160,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 165
+      }
+    },
+    "tile10GunShadow": {
+      "frame": {
+        "x": 0,
+        "y": 436,
+        "w": 156,
+        "h": 140
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 156,
+        "h": 140
+      },
+      "sourceSize": {
+        "w": 152,
+        "h": 136
+      }
+    },
+    "tile4Papers": {
+      "frame": {
+        "x": 156,
+        "y": 436,
+        "w": 153,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 153,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 149,
+        "h": 118
+      }
+    },
+    "tile10Gun": {
+      "frame": {
+        "x": 309,
+        "y": 436,
+        "w": 138,
+        "h": 128
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 138,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 124
+      }
+    },
+    "tile11Bullet2": {
+      "frame": {
+        "x": 1130,
+        "y": 139,
+        "w": 125,
+        "h": 35
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 125,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 121,
+        "h": 31
+      }
+    },
+    "tile11Bullet1": {
+      "frame": {
+        "x": 884,
+        "y": 149,
+        "w": 32,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 32,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 121
+      }
+    },
+    "tile11Bullet2Reflection": {
+      "frame": {
+        "x": 884,
+        "y": 274,
+        "w": 119,
+        "h": 28
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 119,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 115,
+        "h": 24
+      }
+    },
+    "tile4PenShadow": {
+      "frame": {
+        "x": 612,
+        "y": 313,
+        "w": 32,
+        "h": 78
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 32,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 74
+      }
+    },
+    "tile11Bullet1Reflection": {
+      "frame": {
+        "x": 615,
+        "y": 215,
+        "w": 39,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 39,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 73
+      }
+    },
+    "splashCharHand": {
+      "frame": {
+        "x": 156,
+        "y": 558,
+        "w": 38,
+        "h": 48
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 38,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 44
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "main_core_60_80_atlas_0.png?c=7972ea52ed",
+    "size": {
+      "w": 2048,
+      "h": 1024
+    }
+  }
+}

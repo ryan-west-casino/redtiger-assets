@@ -1,0 +1,373 @@
+{
+  "frames": {
+    "paytableGlow": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1722,
+        "h": 1076
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 1722,
+        "h": 1076
+      },
+      "sourceSize": {
+        "w": 1718,
+        "h": 1072
+      }
+    },
+    "paytable1TitlePlate": {
+      "frame": {
+        "x": 0,
+        "y": 1076,
+        "w": 1473,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 1473,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 1469,
+        "h": 402
+      }
+    },
+    "sceneSlotLight4": {
+      "frame": {
+        "x": 1722,
+        "y": 0,
+        "w": 203,
+        "h": 1007
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 203,
+        "h": 1007
+      },
+      "sourceSize": {
+        "w": 199,
+        "h": 1003
+      }
+    },
+    "paytableTitlePlate": {
+      "frame": {
+        "x": 1473,
+        "y": 1076,
+        "w": 932,
+        "h": 263
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 932,
+        "h": 263
+      },
+      "sourceSize": {
+        "w": 928,
+        "h": 259
+      }
+    },
+    "logoPlate": {
+      "frame": {
+        "x": 1736,
+        "y": 1007,
+        "w": 917,
+        "h": 256
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 917,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 913,
+        "h": 255
+      }
+    },
+    "sceneSlotDividerR": {
+      "frame": {
+        "x": 1925,
+        "y": 0,
+        "w": 93,
+        "h": 888
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 93,
+        "h": 888
+      },
+      "sourceSize": {
+        "w": 89,
+        "h": 884
+      }
+    },
+    "reelMultiBubblesL": {
+      "frame": {
+        "x": 0,
+        "y": 1482,
+        "w": 67,
+        "h": 859
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 67,
+        "h": 859
+      },
+      "sourceSize": {
+        "w": 63,
+        "h": 855
+      }
+    },
+    "paytable1Water": {
+      "frame": {
+        "x": 0,
+        "y": 1549,
+        "w": 749,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 749,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 745,
+        "h": 64
+      }
+    },
+    "logo": {
+      "frame": {
+        "x": 749,
+        "y": 1549,
+        "w": 715,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 11,
+        "w": 715,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 784,
+        "h": 189
+      }
+    },
+    "paytable1BoatFront": {
+      "frame": {
+        "x": 0,
+        "y": 1617,
+        "w": 701,
+        "h": 398
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 701,
+        "h": 398
+      },
+      "sourceSize": {
+        "w": 697,
+        "h": 394
+      }
+    },
+    "sceneSpecialFlags2": {
+      "frame": {
+        "x": 701,
+        "y": 1714,
+        "w": 631,
+        "h": 123
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 631,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 627,
+        "h": 119
+      }
+    },
+    "paytable1BoatBack": {
+      "frame": {
+        "x": 701,
+        "y": 1837,
+        "w": 493,
+        "h": 91
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 493,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 489,
+        "h": 87
+      }
+    },
+    "sceneSpecialHook8": {
+      "frame": {
+        "x": 701,
+        "y": 1928,
+        "w": 99,
+        "h": 427
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 99,
+        "h": 427
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 423
+      }
+    },
+    "sceneSpecialHook5": {
+      "frame": {
+        "x": 1736,
+        "y": 1924,
+        "w": 71,
+        "h": 288
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 71,
+        "h": 288
+      },
+      "sourceSize": {
+        "w": 67,
+        "h": 284
+      }
+    },
+    "sceneSpecialBoat2": {
+      "frame": {
+        "x": 1194,
+        "y": 1837,
+        "w": 272,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 272,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 268,
+        "h": 174
+      }
+    },
+    "bigWinDroplet6": {
+      "frame": {
+        "x": 1332,
+        "y": 1714,
+        "w": 140,
+        "h": 123
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 140,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 136,
+        "h": 119
+      }
+    },
+    "bigWinDroplet3": {
+      "frame": {
+        "x": 1925,
+        "y": 888,
+        "w": 100,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 100,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 71
+      }
+    },
+    "bigWinDroplet1": {
+      "frame": {
+        "x": 1128,
+        "y": 1928,
+        "w": 98,
+        "h": 66
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 98,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 62
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "loader_core_default_atlas_1.png?c=6d8f5b3f98",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    }
+  }
+}

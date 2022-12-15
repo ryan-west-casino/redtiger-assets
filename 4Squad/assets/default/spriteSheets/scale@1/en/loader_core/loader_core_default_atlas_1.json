@@ -1,0 +1,253 @@
+{
+  "frames": {
+    "paytable1Glow": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1237,
+        "h": 1112
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 1237,
+        "h": 1112
+      },
+      "sourceSize": {
+        "w": 1233,
+        "h": 1108
+      }
+    },
+    "thunderSplashPadLower": {
+      "frame": {
+        "x": 1237,
+        "y": 0,
+        "w": 1035,
+        "h": 535
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 1035,
+        "h": 535
+      },
+      "sourceSize": {
+        "w": 1031,
+        "h": 531
+      }
+    },
+    "beamSplashLaser2": {
+      "frame": {
+        "x": 1772,
+        "y": 0,
+        "w": 510,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 510,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 506,
+        "h": 162
+      }
+    },
+    "paytable1LogoGlow": {
+      "frame": {
+        "x": 1237,
+        "y": 1035,
+        "w": 506,
+        "h": 310
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 506,
+        "h": 310
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 306
+      }
+    },
+    "thunderLightArmLeft": {
+      "frame": {
+        "x": 1772,
+        "y": 510,
+        "w": 418,
+        "h": 127
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 418,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 414,
+        "h": 123
+      }
+    },
+    "thunderLightFace": {
+      "frame": {
+        "x": 0,
+        "y": 1345,
+        "w": 375,
+        "h": 319
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 375,
+        "h": 319
+      },
+      "sourceSize": {
+        "w": 371,
+        "h": 315
+      }
+    },
+    "thunderSplashRing": {
+      "frame": {
+        "x": 319,
+        "y": 1345,
+        "w": 357,
+        "h": 354
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 357,
+        "h": 354
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 350
+      }
+    },
+    "thunderSplashMagic9": {
+      "frame": {
+        "x": 0,
+        "y": 1720,
+        "w": 320,
+        "h": 319
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 320,
+        "h": 319
+      },
+      "sourceSize": {
+        "w": 316,
+        "h": 315
+      }
+    },
+    "thunderLightArmRight1": {
+      "frame": {
+        "x": 1938,
+        "y": 0,
+        "w": 105,
+        "h": 289
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 105,
+        "h": 289
+      },
+      "sourceSize": {
+        "w": 101,
+        "h": 285
+      }
+    },
+    "beamSplashLaser1": {
+      "frame": {
+        "x": 1772,
+        "y": 928,
+        "w": 195,
+        "h": 238
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 195,
+        "h": 238
+      },
+      "sourceSize": {
+        "w": 191,
+        "h": 234
+      }
+    },
+    "thunderSplashOrb": {
+      "frame": {
+        "x": 0,
+        "y": 1112,
+        "w": 210,
+        "h": 181
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 210,
+        "h": 181
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 177
+      }
+    },
+    "superWinBlink2": {
+      "frame": {
+        "x": 181,
+        "y": 1112,
+        "w": 173,
+        "h": 179
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 173,
+        "h": 179
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 175
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "loader_core_default_atlas_1.png?c=90304f50aa",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    }
+  }
+}

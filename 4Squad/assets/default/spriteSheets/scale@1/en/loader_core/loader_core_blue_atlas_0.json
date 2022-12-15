@@ -1,0 +1,33 @@
+{
+  "frames": {
+    "logoPlate": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 444,
+        "h": 204
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 444,
+        "h": 204
+      },
+      "sourceSize": {
+        "w": 440,
+        "h": 200
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "loader_core_blue_atlas_0.png?c=0d35db90ef",
+    "size": {
+      "w": 512,
+      "h": 256
+    }
+  }
+}

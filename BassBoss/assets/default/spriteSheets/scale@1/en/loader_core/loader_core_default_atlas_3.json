@@ -1,0 +1,213 @@
+{
+  "frames": {
+    "idleBlink": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 364,
+        "h": 381
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 364,
+        "h": 381
+      },
+      "sourceSize": {
+        "w": 360,
+        "h": 377
+      }
+    },
+    "superWinSplashSmall": {
+      "frame": {
+        "x": 0,
+        "y": 381,
+        "w": 342,
+        "h": 243
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 342,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 338,
+        "h": 239
+      }
+    },
+    "megaWinChSleeveR": {
+      "frame": {
+        "x": 0,
+        "y": 723,
+        "w": 320,
+        "h": 298
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 320,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 316,
+        "h": 294
+      }
+    },
+    "megaWinChFace": {
+      "frame": {
+        "x": 243,
+        "y": 381,
+        "w": 318,
+        "h": 304
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 318,
+        "h": 304
+      },
+      "sourceSize": {
+        "w": 314,
+        "h": 300
+      }
+    },
+    "megaWinCupBlink": {
+      "frame": {
+        "x": 364,
+        "y": 0,
+        "w": 233,
+        "h": 284
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 233,
+        "h": 284
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 280
+      }
+    },
+    "megaWinChArmR": {
+      "frame": {
+        "x": 0,
+        "y": 1043,
+        "w": 274,
+        "h": 254
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 274,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 270,
+        "h": 250
+      }
+    },
+    "megaWinChHandR": {
+      "frame": {
+        "x": 0,
+        "y": 1317,
+        "w": 224,
+        "h": 182
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 224,
+        "h": 182
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 178
+      }
+    },
+    "sceneSpecialBoat3": {
+      "frame": {
+        "x": 0,
+        "y": 1541,
+        "w": 217,
+        "h": 170
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 217,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 166
+      }
+    },
+    "chromeGlow": {
+      "frame": {
+        "x": 0,
+        "y": 1758,
+        "w": 131,
+        "h": 136
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 4,
+        "w": 131,
+        "h": 136
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "bigWinDroplet5": {
+      "frame": {
+        "x": 364,
+        "y": 284,
+        "w": 82,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 82,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 79
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "loader_core_default_atlas_3.png?c=b893883964",
+    "size": {
+      "w": 1024,
+      "h": 2048
+    }
+  }
+}

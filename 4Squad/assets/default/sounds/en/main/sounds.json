@@ -1,0 +1,260 @@
+{
+  "urls": [
+    "assets/default/sounds/en/main/sounds.ogg?c=86c9fbd4af",
+    "assets/default/sounds/en/main/sounds.m4a?c=52423c597f"
+  ],
+  "sprite": {
+    "backgrLoop": [
+      0,
+      31219.52380952381
+    ],
+    "bigWin": [
+      33000,
+      9936.303854875285
+    ],
+    "bigWinEnd": [
+      44000,
+      6578.185941043082
+    ],
+    "bigWinLoop": [
+      52000,
+      3750
+    ],
+    "characterBlueSplash": [
+      57000,
+      6784.5578231292475
+    ],
+    "characterGreenSplash": [
+      65000,
+      6589.138321995463
+    ],
+    "characterLoadBar1": [
+      73000,
+      3500
+    ],
+    "characterLoadBar2": [
+      78000,
+      3500
+    ],
+    "characterLoadBar3": [
+      83000,
+      3500
+    ],
+    "characterLoadBar4": [
+      88000,
+      3500
+    ],
+    "characterLoadBar5": [
+      93000,
+      3511.4739229024963
+    ],
+    "characterLoadBar6": [
+      98000,
+      3500
+    ],
+    "characterLoadBar7": [
+      103000,
+      3500
+    ],
+    "characterLoadBar8": [
+      108000,
+      3500
+    ],
+    "characterRedSplash": [
+      113000,
+      7008.208616780053
+    ],
+    "characterUnlock1": [
+      122000,
+      3500
+    ],
+    "characterUnlock2": [
+      127000,
+      3500
+    ],
+    "characterUnlock3": [
+      132000,
+      3500
+    ],
+    "characterUnlock4": [
+      137000,
+      3500
+    ],
+    "characterYellowSplash": [
+      142000,
+      6680.702947845816
+    ],
+    "cloneSymbols1": [
+      150000,
+      2750
+    ],
+    "cloneSymbols2": [
+      154000,
+      2750
+    ],
+    "cloneSymbols3": [
+      158000,
+      2750
+    ],
+    "destroySymbols": [
+      162000,
+      4000
+    ],
+    "featureLoop": [
+      167000,
+      15609.773242630383
+    ],
+    "introEnterGame": [
+      184000,
+      9180.453514739242
+    ],
+    "jackHit": [
+      195000,
+      3921.6780045351525
+    ],
+    "jackSiren": [
+      200000,
+      4864.580498866218
+    ],
+    "megaWin": [
+      206000,
+      12085.646258503402
+    ],
+    "megaWinEnd": [
+      220000,
+      8800.340136054416
+    ],
+    "megaWinLoop": [
+      230000,
+      24303.83219954649
+    ],
+    "multiplierBangup1": [
+      256000,
+      3250
+    ],
+    "multiplierBangup2": [
+      261000,
+      2930.0907029478367
+    ],
+    "multiplierBangup3": [
+      265000,
+      3164.195011337881
+    ],
+    "multiplierBangup4": [
+      270000,
+      3548.1179138321863
+    ],
+    "multiplierBangup5": [
+      275000,
+      3899.9999999999773
+    ],
+    "multiplierHide": [
+      280000,
+      3009.4104308390115
+    ],
+    "multiplierHit": [
+      285000,
+      3708.1405895691546
+    ],
+    "playButton": [
+      290000,
+      1875.0113378685
+    ],
+    "reelSpinLoop": [
+      293000,
+      23414.648526077086
+    ],
+    "reelStopGroup": [
+      318000,
+      2250
+    ],
+    "reelStopSingle": [
+      322000,
+      1250
+    ],
+    "showSum": [
+      325000,
+      2512.222222222249
+    ],
+    "spinBegin": [
+      329000,
+      1847.9591836734812
+    ],
+    "superHeroLoop": [
+      332000,
+      31219.546485260766
+    ],
+    "superHeroSplash": [
+      365000,
+      6615.147392290226
+    ],
+    "superWin": [
+      373000,
+      8872.834467120185
+    ],
+    "superWinEnd": [
+      383000,
+      9063.08390022673
+    ],
+    "superWinLoop": [
+      394000,
+      7000
+    ],
+    "tileDestroy": [
+      402000,
+      1741.9274376417206
+    ],
+    "wildChain1": [
+      405000,
+      2342.4716553287794
+    ],
+    "wildChain2": [
+      409000,
+      2342.4716553287794
+    ],
+    "wildChain3": [
+      413000,
+      2342.4716553287794
+    ],
+    "wildChain4": [
+      417000,
+      2342.4716553287794
+    ],
+    "wildChain5": [
+      421000,
+      2342.4716553287794
+    ],
+    "wildPop": [
+      425000,
+      1415.147392290237
+    ],
+    "winHighlight1": [
+      428000,
+      2353.1519274376365
+    ],
+    "winHighlight2": [
+      432000,
+      2270.8616780045077
+    ],
+    "winHighlight3": [
+      436000,
+      2270.8616780045077
+    ],
+    "winHighlight4": [
+      440000,
+      2270.8616780045077
+    ],
+    "winHighlight5": [
+      444000,
+      2270.8616780045077
+    ],
+    "winMultiplier": [
+      448000,
+      8277.68707482994
+    ],
+    "winNormal": [
+      458000,
+      2856.167800453534
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "frames": {
+    "superheroTxt": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 554,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": 10,
+        "w": 554,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 550,
+        "h": 278
+      }
+    },
+    "headerBanner4": {
+      "frame": {
+        "x": 554,
+        "y": 0,
+        "w": 446,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 55,
+        "y": 37,
+        "w": 446,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 557,
+        "h": 148
+      }
+    },
+    "splashLeft": {
+      "frame": {
+        "x": 1000,
+        "y": 0,
+        "w": 399,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 151,
+        "y": 19,
+        "w": 399,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 170
+      }
+    },
+    "headerBanner2": {
+      "frame": {
+        "x": 554,
+        "y": 74,
+        "w": 397,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 37,
+        "w": 397,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 557,
+        "h": 148
+      }
+    },
+    "headerBanner1": {
+      "frame": {
+        "x": 1399,
+        "y": 0,
+        "w": 394,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 26,
+        "w": 394,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 557,
+        "h": 148
+      }
+    },
+    "headerBanner5": {
+      "frame": {
+        "x": 1793,
+        "y": 0,
+        "w": 384,
+        "h": 73
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 37,
+        "w": 384,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 557,
+        "h": 148
+      }
+    },
+    "headerBanner3": {
+      "frame": {
+        "x": 1399,
+        "y": 101,
+        "w": 378,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 90,
+        "y": 37,
+        "w": 378,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 557,
+        "h": 148
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "main_default_atlas_0.png?c=53d47fb3aa",
+    "size": {
+      "w": 2048,
+      "h": 512
+    }
+  }
+}

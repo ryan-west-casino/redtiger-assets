@@ -1,0 +1,213 @@
+{
+  "frames": {
+    "superWin": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1051,
+        "h": 215
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 2,
+        "w": 1051,
+        "h": 215
+      },
+      "sourceSize": {
+        "w": 1207,
+        "h": 233
+      }
+    },
+    "megaWin": {
+      "frame": {
+        "x": 1051,
+        "y": 0,
+        "w": 1022,
+        "h": 199
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 92,
+        "y": 19,
+        "w": 1022,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 1207,
+        "h": 233
+      }
+    },
+    "splashInfo": {
+      "frame": {
+        "x": 0,
+        "y": 1022,
+        "w": 852,
+        "h": 237
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 226,
+        "y": 38,
+        "w": 852,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 1304,
+        "h": 296
+      }
+    },
+    "bigWin": {
+      "frame": {
+        "x": 1250,
+        "y": 0,
+        "w": 784,
+        "h": 207
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 211,
+        "y": 10,
+        "w": 784,
+        "h": 207
+      },
+      "sourceSize": {
+        "w": 1207,
+        "h": 233
+      }
+    },
+    "twoMoreText": {
+      "frame": {
+        "x": 0,
+        "y": 1874,
+        "w": 638,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 32,
+        "w": 638,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 701,
+        "h": 169
+      }
+    },
+    "headerBanner1": {
+      "frame": {
+        "x": 1250,
+        "y": 207,
+        "w": 634,
+        "h": 139
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 8,
+        "w": 634,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 698,
+        "h": 151
+      }
+    },
+    "oneMoreText": {
+      "frame": {
+        "x": 1884,
+        "y": 207,
+        "w": 587,
+        "h": 108
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 54,
+        "y": 34,
+        "w": 587,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 701,
+        "h": 169
+      }
+    },
+    "headerBanner2": {
+      "frame": {
+        "x": 1250,
+        "y": 346,
+        "w": 521,
+        "h": 153
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 85,
+        "y": 0,
+        "w": 521,
+        "h": 153
+      },
+      "sourceSize": {
+        "w": 698,
+        "h": 151
+      }
+    },
+    "mafiaModeTitle": {
+      "frame": {
+        "x": 638,
+        "y": 215,
+        "w": 400,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 15,
+        "w": 400,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 418,
+        "h": 225
+      }
+    },
+    "tile100Title": {
+      "frame": {
+        "x": 1771,
+        "y": 346,
+        "w": 286,
+        "h": 72
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 9,
+        "w": 286,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 80
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "main_default_atlas_0.png?c=871e883fff",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    }
+  }
+}

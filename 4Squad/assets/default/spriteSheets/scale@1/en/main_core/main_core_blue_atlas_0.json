@@ -1,0 +1,73 @@
+{
+  "frames": {
+    "headerBannerPlate": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 543,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 543,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 539,
+        "h": 246
+      }
+    },
+    "sceneSlotSpecialUpMiddle": {
+      "frame": {
+        "x": 543,
+        "y": 0,
+        "w": 394,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 394,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 390,
+        "h": 114
+      }
+    },
+    "tile10Base": {
+      "frame": {
+        "x": 937,
+        "y": 0,
+        "w": 182,
+        "h": 180
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 182,
+        "h": 180
+      },
+      "sourceSize": {
+        "w": 178,
+        "h": 176
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "main_core_blue_atlas_0.png?c=7f38bd3f61",
+    "size": {
+      "w": 2048,
+      "h": 256
+    }
+  }
+}

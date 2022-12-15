@@ -1,0 +1,433 @@
+{
+  "frames": {
+    "sceneCard": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 734,
+        "h": 1897
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 734,
+        "h": 1897
+      },
+      "sourceSize": {
+        "w": 730,
+        "h": 1893
+      }
+    },
+    "sceneHorse": {
+      "frame": {
+        "x": 734,
+        "y": 0,
+        "w": 604,
+        "h": 1120
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 604,
+        "h": 1120
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 1116
+      }
+    },
+    "superWinPlate": {
+      "frame": {
+        "x": 734,
+        "y": 604,
+        "w": 1001,
+        "h": 311
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 1001,
+        "h": 311
+      },
+      "sourceSize": {
+        "w": 997,
+        "h": 307
+      }
+    },
+    "paytable1FlagPike": {
+      "frame": {
+        "x": 0,
+        "y": 1897,
+        "w": 982,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 982,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 978,
+        "h": 73
+      }
+    },
+    "anticipationGlowSideLine": {
+      "frame": {
+        "x": 734,
+        "y": 915,
+        "w": 87,
+        "h": 966
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 87,
+        "h": 966
+      },
+      "sourceSize": {
+        "w": 83,
+        "h": 962
+      }
+    },
+    "logoTxtBig": {
+      "frame": {
+        "x": 1854,
+        "y": 0,
+        "w": 948,
+        "h": 159
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 50,
+        "y": -2,
+        "w": 948,
+        "h": 159
+      },
+      "sourceSize": {
+        "w": 1048,
+        "h": 200
+      }
+    },
+    "explosionBlinks4": {
+      "frame": {
+        "x": 982,
+        "y": 915,
+        "w": 693,
+        "h": 732
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 18,
+        "w": 693,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 733,
+        "h": 749
+      }
+    },
+    "paytable1LogoPlate": {
+      "frame": {
+        "x": 821,
+        "y": 915,
+        "w": 647,
+        "h": 161
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 647,
+        "h": 161
+      },
+      "sourceSize": {
+        "w": 643,
+        "h": 157
+      }
+    },
+    "paytable1Ornament": {
+      "frame": {
+        "x": 821,
+        "y": 1608,
+        "w": 619,
+        "h": 261
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 619,
+        "h": 261
+      },
+      "sourceSize": {
+        "w": 615,
+        "h": 257
+      }
+    },
+    "logoPlate": {
+      "frame": {
+        "x": 1440,
+        "y": 1608,
+        "w": 593,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 593,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 589,
+        "h": 146
+      }
+    },
+    "sceneCardOrnament": {
+      "frame": {
+        "x": 1440,
+        "y": 1758,
+        "w": 281,
+        "h": 581
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 281,
+        "h": 581
+      },
+      "sourceSize": {
+        "w": 277,
+        "h": 577
+      }
+    },
+    "paytable1FlagAn": {
+      "frame": {
+        "x": 1714,
+        "y": 948,
+        "w": 558,
+        "h": 293
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 558,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 554,
+        "h": 289
+      }
+    },
+    "paytable1Wild1Multiplier": {
+      "frame": {
+        "x": 982,
+        "y": 1869,
+        "w": 298,
+        "h": 155
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 42,
+        "w": 298,
+        "h": 155
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 230
+      }
+    },
+    "paytable1WildParticles": {
+      "frame": {
+        "x": 1735,
+        "y": 604,
+        "w": 194,
+        "h": 111
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 194,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 107
+      }
+    },
+    "anticipationGlow1": {
+      "frame": {
+        "x": 1714,
+        "y": 1506,
+        "w": 185,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 185,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 181,
+        "h": 78
+      }
+    },
+    "shineCurvedYellow": {
+      "frame": {
+        "x": 0,
+        "y": 1974,
+        "w": 136,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": -2,
+        "w": 136,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 68
+      }
+    },
+    "shineYellow": {
+      "frame": {
+        "x": 1899,
+        "y": 1506,
+        "w": 131,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -1,
+        "w": 131,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 52
+      }
+    },
+    "paytable1WildTxt": {
+      "frame": {
+        "x": 1735,
+        "y": 798,
+        "w": 121,
+        "h": 93
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 30,
+        "w": 121,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 152
+      }
+    },
+    "winBlink": {
+      "frame": {
+        "x": 1280,
+        "y": 1869,
+        "w": 85,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 85,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 81,
+        "h": 81
+      }
+    },
+    "sceneSpecialPawnBlink": {
+      "frame": {
+        "x": 1365,
+        "y": 1869,
+        "w": 75,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 75,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 71,
+        "h": 71
+      }
+    },
+    "paytable1FlagBack": {
+      "frame": {
+        "x": 2021,
+        "y": 1758,
+        "w": 35,
+        "h": 23
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 35,
+        "h": 23
+      },
+      "sourceSize": {
+        "w": 31,
+        "h": 19
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "loader_core_default_atlas_0.png?c=31f0740d86",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    }
+  }
+}

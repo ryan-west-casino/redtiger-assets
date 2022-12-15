@@ -1,0 +1,73 @@
+{
+  "frames": {
+    "thunderSplashCharacter1": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 593,
+        "h": 937
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 593,
+        "h": 937
+      },
+      "sourceSize": {
+        "w": 589,
+        "h": 933
+      }
+    },
+    "thunderSplashCharacter2": {
+      "frame": {
+        "x": 0,
+        "y": 937,
+        "w": 479,
+        "h": 347
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 479,
+        "h": 347
+      },
+      "sourceSize": {
+        "w": 475,
+        "h": 343
+      }
+    },
+    "thunderSplashCharacter3": {
+      "frame": {
+        "x": 0,
+        "y": 1416,
+        "w": 421,
+        "h": 153
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 421,
+        "h": 153
+      },
+      "sourceSize": {
+        "w": 417,
+        "h": 149
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "loader_core_thunder_atlas_0.png?c=6e01b2518e",
+    "size": {
+      "w": 1024,
+      "h": 2048
+    }
+  }
+}

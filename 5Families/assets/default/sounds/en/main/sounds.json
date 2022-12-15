@@ -1,0 +1,232 @@
+{
+  "urls": [
+    "assets/default/sounds/en/main/sounds.ogg?c=f790b88d07",
+    "assets/default/sounds/en/main/sounds.m4a?c=376d4d3251"
+  ],
+  "sprite": {
+    "anticipation": [
+      0,
+      3750
+    ],
+    "bangupLoop": [
+      5000,
+      1500
+    ],
+    "bangupLoopEnd": [
+      8000,
+      3000
+    ],
+    "bangupLoopStart": [
+      12000,
+      3687.5056689342396
+    ],
+    "bigWinEnd": [
+      17000,
+      7354.852607709752
+    ],
+    "bigWinLoop": [
+      26000,
+      12344.897959183676
+    ],
+    "cylinderSpin": [
+      40000,
+      718.752834467118
+    ],
+    "cylinderStop": [
+      42000,
+      222.65306122449147
+    ],
+    "extraWinBegin": [
+      44000,
+      5806.462585034013
+    ],
+    "extraWinChange1": [
+      51000,
+      4209.68253968254
+    ],
+    "extraWinChange2": [
+      57000,
+      4548.39002267574
+    ],
+    "finalBullet": [
+      63000,
+      6000
+    ],
+    "introEnterGame": [
+      70000,
+      4014.7165532879826
+    ],
+    "jackActivator": [
+      76000,
+      4250
+    ],
+    "jackHit": [
+      82000,
+      3500
+    ],
+    "jackSiren": [
+      87000,
+      4864.580498866218
+    ],
+    "loadBullet": [
+      93000,
+      1874.988662131514
+    ],
+    "mafiaSplash": [
+      96000,
+      25411.768707482992
+    ],
+    "mafiaTimeLoop": [
+      123000,
+      22588.25396825398
+    ],
+    "megaWinEnd": [
+      147000,
+      9290.340136054425
+    ],
+    "megaWinLoop": [
+      158000,
+      12344.897959183669
+    ],
+    "normalMode": [
+      172000,
+      2539.0702947845793
+    ],
+    "payTablePages": [
+      176000,
+      1212.7437641723304
+    ],
+    "playButton": [
+      179000,
+      921.8820861678125
+    ],
+    "reelStop": [
+      181000,
+      1000
+    ],
+    "spinLoop": [
+      183000,
+      22588.25396825398
+    ],
+    "spinStart": [
+      207000,
+      3500
+    ],
+    "superWinEnd": [
+      212000,
+      8516.145124716559
+    ],
+    "superWinLoop": [
+      222000,
+      12344.897959183669
+    ],
+    "tile5LinePop": [
+      236000,
+      1843.7414965986534
+    ],
+    "tile6LinePop": [
+      239000,
+      2500
+    ],
+    "tile7LinePop": [
+      243000,
+      2124.988662131528
+    ],
+    "tile8LinePop": [
+      247000,
+      1398.4353741496705
+    ],
+    "tile9LinePop": [
+      250000,
+      1656.2585034013466
+    ],
+    "unloadBullet": [
+      253000,
+      687.50566893425
+    ],
+    "winLines1": [
+      255000,
+      2000
+    ],
+    "winLines10": [
+      258000,
+      2000
+    ],
+    "winLines2": [
+      261000,
+      2000
+    ],
+    "winLines3": [
+      264000,
+      2000
+    ],
+    "winLines4": [
+      267000,
+      2000
+    ],
+    "winLines5": [
+      270000,
+      2000
+    ],
+    "winLines6": [
+      273000,
+      2000
+    ],
+    "winLines7": [
+      276000,
+      2000
+    ],
+    "winLines8": [
+      279000,
+      2000
+    ],
+    "winLines9": [
+      282000,
+      2000
+    ],
+    "winLinesMafia1": [
+      285000,
+      2000
+    ],
+    "winLinesMafia10": [
+      288000,
+      2000
+    ],
+    "winLinesMafia2": [
+      291000,
+      2000
+    ],
+    "winLinesMafia3": [
+      294000,
+      2000
+    ],
+    "winLinesMafia4": [
+      297000,
+      2000
+    ],
+    "winLinesMafia5": [
+      300000,
+      2000
+    ],
+    "winLinesMafia6": [
+      303000,
+      2000
+    ],
+    "winLinesMafia7": [
+      306000,
+      2000
+    ],
+    "winLinesMafia8": [
+      309000,
+      2000
+    ],
+    "winLinesMafia9": [
+      312000,
+      2000
+    ],
+    "winNormal": [
+      315000,
+      2250
+    ]
+  }
+}

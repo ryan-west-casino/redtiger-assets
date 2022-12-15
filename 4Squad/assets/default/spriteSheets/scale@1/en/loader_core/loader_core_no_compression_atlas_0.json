@@ -1,0 +1,53 @@
+{
+  "frames": {
+    "thunderSplashGlow": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 286
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 292,
+        "h": 286
+      },
+      "sourceSize": {
+        "w": 288,
+        "h": 282
+      }
+    },
+    "whiteGlow": {
+      "frame": {
+        "x": 292,
+        "y": 0,
+        "w": 154,
+        "h": 158
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 3,
+        "w": 154,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 169
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "loader_core_no_compression_atlas_0.png?c=71a8e5e2e0",
+    "size": {
+      "w": 512,
+      "h": 512
+    }
+  }
+}

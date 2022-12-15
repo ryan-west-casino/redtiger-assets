@@ -1,0 +1,313 @@
+{
+  "frames": {
+    "megaWinBaseGlow": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1657,
+        "h": 1715
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 1657,
+        "h": 1715
+      },
+      "sourceSize": {
+        "w": 1653,
+        "h": 1711
+      }
+    },
+    "sceneSlotLeft": {
+      "frame": {
+        "x": 0,
+        "y": 1715,
+        "w": 95,
+        "h": 885
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 95,
+        "h": 885
+      },
+      "sourceSize": {
+        "w": 91,
+        "h": 887
+      }
+    },
+    "megaWinLightningUp1": {
+      "frame": {
+        "x": 885,
+        "y": 1715,
+        "w": 278,
+        "h": 866
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 278,
+        "h": 866
+      },
+      "sourceSize": {
+        "w": 274,
+        "h": 862
+      }
+    },
+    "megaWinLightningDown2": {
+      "frame": {
+        "x": 1751,
+        "y": 0,
+        "w": 241,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 241,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 237,
+        "h": 666
+      }
+    },
+    "dragonBodyHalf": {
+      "frame": {
+        "x": 1657,
+        "y": 670,
+        "w": 602,
+        "h": 348
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 602,
+        "h": 348
+      },
+      "sourceSize": {
+        "w": 598,
+        "h": 344
+      }
+    },
+    "thunderSplashLightning6": {
+      "frame": {
+        "x": 0,
+        "y": 1810,
+        "w": 230,
+        "h": 585
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 230,
+        "h": 585
+      },
+      "sourceSize": {
+        "w": 226,
+        "h": 581
+      }
+    },
+    "shiftSplashMotion4": {
+      "frame": {
+        "x": 1751,
+        "y": 1272,
+        "w": 542,
+        "h": 107
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 542,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 538,
+        "h": 103
+      }
+    },
+    "thunderSplashLightning4": {
+      "frame": {
+        "x": 1858,
+        "y": 1272,
+        "w": 539,
+        "h": 182
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 539,
+        "h": 182
+      },
+      "sourceSize": {
+        "w": 535,
+        "h": 178
+      }
+    },
+    "quakeReflection1": {
+      "frame": {
+        "x": 1657,
+        "y": 0,
+        "w": 311,
+        "h": 82
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": -2,
+        "w": 311,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 314,
+        "h": 78
+      }
+    },
+    "sceneSlotBarLeft": {
+      "frame": {
+        "x": 1657,
+        "y": 1272,
+        "w": 306,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 306,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 302,
+        "h": 82
+      }
+    },
+    "sceneSlotSpecialBarLeft": {
+      "frame": {
+        "x": 1657,
+        "y": 311,
+        "w": 306,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 306,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 302,
+        "h": 82
+      }
+    },
+    "beamSplashGlow": {
+      "frame": {
+        "x": 1751,
+        "y": 1814,
+        "w": 284,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 284,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 280,
+        "h": 117
+      }
+    },
+    "tile100Glow": {
+      "frame": {
+        "x": 585,
+        "y": 1810,
+        "w": 271,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 271,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 267,
+        "h": 185
+      }
+    },
+    "quakeSplashParticle1": {
+      "frame": {
+        "x": 1751,
+        "y": 1935,
+        "w": 245,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 245,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 241,
+        "h": 77
+      }
+    },
+    "quakeSplashParticle3": {
+      "frame": {
+        "x": 1657,
+        "y": 1578,
+        "w": 134,
+        "h": 71
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 134,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 67
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "main_core_default_atlas_2.png?c=7105c4944f",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    }
+  }
+}

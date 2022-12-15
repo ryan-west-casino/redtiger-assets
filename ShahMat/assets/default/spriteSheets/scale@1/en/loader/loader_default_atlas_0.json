@@ -1,0 +1,133 @@
+{
+  "frames": {
+    "paytable7Title": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 904,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 38,
+        "w": 904,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 1120,
+        "h": 144
+      }
+    },
+    "paytable4Title": {
+      "frame": {
+        "x": 904,
+        "y": 0,
+        "w": 717,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 202,
+        "y": 38,
+        "w": 717,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 1120,
+        "h": 144
+      }
+    },
+    "paytable1Txt": {
+      "frame": {
+        "x": 1621,
+        "y": 0,
+        "w": 663,
+        "h": 123
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 229,
+        "y": 29,
+        "w": 663,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 1120,
+        "h": 180
+      }
+    },
+    "paytable5Title": {
+      "frame": {
+        "x": 1744,
+        "y": 0,
+        "w": 622,
+        "h": 69
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 249,
+        "y": 38,
+        "w": 622,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 1120,
+        "h": 144
+      }
+    },
+    "paytable3Title": {
+      "frame": {
+        "x": 1813,
+        "y": 0,
+        "w": 494,
+        "h": 69
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 313,
+        "y": 38,
+        "w": 494,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 1120,
+        "h": 144
+      }
+    },
+    "paytable2Title": {
+      "frame": {
+        "x": 1744,
+        "y": 622,
+        "w": 240,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 440,
+        "y": 38,
+        "w": 240,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 1120,
+        "h": 144
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "loader_default_atlas_0.png?c=d314238ac7",
+    "size": {
+      "w": 2048,
+      "h": 1024
+    }
+  }
+}

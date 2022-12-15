@@ -1,0 +1,253 @@
+{
+  "frames": {
+    "fxSmokeBIgLoop_00024": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 681,
+        "h": 477
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": -2,
+        "w": 681,
+        "h": 477
+      },
+      "sourceSize": {
+        "w": 701,
+        "h": 474
+      }
+    },
+    "fxSmokeBIgLoop_00021": {
+      "frame": {
+        "x": 681,
+        "y": 0,
+        "w": 681,
+        "h": 476
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": -2,
+        "w": 681,
+        "h": 476
+      },
+      "sourceSize": {
+        "w": 701,
+        "h": 474
+      }
+    },
+    "fxSmokeBIgLoop_00030": {
+      "frame": {
+        "x": 1362,
+        "y": 0,
+        "w": 681,
+        "h": 476
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": -2,
+        "w": 681,
+        "h": 476
+      },
+      "sourceSize": {
+        "w": 701,
+        "h": 474
+      }
+    },
+    "fxSmokeBIgLoop_00027": {
+      "frame": {
+        "x": 681,
+        "y": 476,
+        "w": 679,
+        "h": 477
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": -2,
+        "w": 679,
+        "h": 477
+      },
+      "sourceSize": {
+        "w": 701,
+        "h": 474
+      }
+    },
+    "fxSmokeBIgLoop_00018": {
+      "frame": {
+        "x": 0,
+        "y": 477,
+        "w": 678,
+        "h": 476
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": -2,
+        "w": 678,
+        "h": 476
+      },
+      "sourceSize": {
+        "w": 701,
+        "h": 474
+      }
+    },
+    "fxSmokeBIgLoop_00012": {
+      "frame": {
+        "x": 1360,
+        "y": 476,
+        "w": 676,
+        "h": 471
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 3,
+        "w": 676,
+        "h": 471
+      },
+      "sourceSize": {
+        "w": 701,
+        "h": 474
+      }
+    },
+    "fxSmokeBIgLoop_00015": {
+      "frame": {
+        "x": 1360,
+        "y": 947,
+        "w": 675,
+        "h": 475
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": -1,
+        "w": 675,
+        "h": 475
+      },
+      "sourceSize": {
+        "w": 701,
+        "h": 474
+      }
+    },
+    "fxSmokeBIgLoop_00006": {
+      "frame": {
+        "x": 0,
+        "y": 1422,
+        "w": 669,
+        "h": 463
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 10,
+        "w": 669,
+        "h": 463
+      },
+      "sourceSize": {
+        "w": 701,
+        "h": 474
+      }
+    },
+    "fxSmokeBIgLoop_00003": {
+      "frame": {
+        "x": 0,
+        "y": 953,
+        "w": 668,
+        "h": 461
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 12,
+        "w": 668,
+        "h": 461
+      },
+      "sourceSize": {
+        "w": 701,
+        "h": 474
+      }
+    },
+    "fxSmokeBIgLoop_00000": {
+      "frame": {
+        "x": 668,
+        "y": 953,
+        "w": 666,
+        "h": 458
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 16,
+        "w": 666,
+        "h": 458
+      },
+      "sourceSize": {
+        "w": 701,
+        "h": 474
+      }
+    },
+    "fxSmokeBIgLoop_00060": {
+      "frame": {
+        "x": 669,
+        "y": 1411,
+        "w": 663,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 21,
+        "w": 663,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 701,
+        "h": 474
+      }
+    },
+    "fxSmokeBIgLoop_00057": {
+      "frame": {
+        "x": 1332,
+        "y": 1422,
+        "w": 662,
+        "h": 449
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 24,
+        "w": 662,
+        "h": 449
+      },
+      "sourceSize": {
+        "w": 701,
+        "h": 474
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "loader_core_default_atlas_1.png?c=d475763fc9",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    }
+  }
+}

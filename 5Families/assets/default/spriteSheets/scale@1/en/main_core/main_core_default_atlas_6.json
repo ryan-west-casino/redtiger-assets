@@ -1,0 +1,973 @@
+{
+  "frames": {
+    "tile15special_0003": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 244,
+        "h": 263
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 34,
+        "w": 244,
+        "h": 263
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile15special_0004": {
+      "frame": {
+        "x": 0,
+        "y": 263,
+        "w": 244,
+        "h": 263
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 34,
+        "w": 244,
+        "h": 263
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile15special_0006": {
+      "frame": {
+        "x": 0,
+        "y": 526,
+        "w": 244,
+        "h": 263
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 34,
+        "w": 244,
+        "h": 263
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile5normal_0003": {
+      "frame": {
+        "x": 0,
+        "y": 789,
+        "w": 244,
+        "h": 263
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 42,
+        "w": 244,
+        "h": 263
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile6normal_0003": {
+      "frame": {
+        "x": 0,
+        "y": 1052,
+        "w": 243,
+        "h": 263
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 34,
+        "w": 243,
+        "h": 263
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile6normal_0004": {
+      "frame": {
+        "x": 0,
+        "y": 1315,
+        "w": 243,
+        "h": 263
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 34,
+        "w": 243,
+        "h": 263
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile6normal_0006": {
+      "frame": {
+        "x": 0,
+        "y": 1578,
+        "w": 243,
+        "h": 263
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 34,
+        "w": 243,
+        "h": 263
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile16special_0002": {
+      "frame": {
+        "x": 243,
+        "y": 1052,
+        "w": 239,
+        "h": 263
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 41,
+        "w": 239,
+        "h": 263
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile7normal_0002": {
+      "frame": {
+        "x": 243,
+        "y": 1315,
+        "w": 237,
+        "h": 263
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 41,
+        "w": 237,
+        "h": 263
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile10Frame": {
+      "frame": {
+        "x": 243,
+        "y": 1578,
+        "w": 254,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 254,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 258
+      }
+    },
+    "tile1Frame": {
+      "frame": {
+        "x": 480,
+        "y": 1315,
+        "w": 254,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 254,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 258
+      }
+    },
+    "tile15special_0005": {
+      "frame": {
+        "x": 497,
+        "y": 1577,
+        "w": 244,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 35,
+        "w": 244,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile15special_0007": {
+      "frame": {
+        "x": 244,
+        "y": 0,
+        "w": 244,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 35,
+        "w": 244,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile6normal_0005": {
+      "frame": {
+        "x": 244,
+        "y": 262,
+        "w": 243,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 35,
+        "w": 243,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile6normal_0007": {
+      "frame": {
+        "x": 244,
+        "y": 524,
+        "w": 243,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 35,
+        "w": 243,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile14special_0011": {
+      "frame": {
+        "x": 244,
+        "y": 786,
+        "w": 240,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 43,
+        "w": 240,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile14special_0012": {
+      "frame": {
+        "x": 482,
+        "y": 1048,
+        "w": 240,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 43,
+        "w": 240,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile5normal_0011": {
+      "frame": {
+        "x": 484,
+        "y": 786,
+        "w": 240,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 43,
+        "w": 240,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile5normal_0012": {
+      "frame": {
+        "x": 722,
+        "y": 1048,
+        "w": 240,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 43,
+        "w": 240,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile15special_0009": {
+      "frame": {
+        "x": 734,
+        "y": 1310,
+        "w": 244,
+        "h": 261
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 36,
+        "w": 244,
+        "h": 261
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile14Frame": {
+      "frame": {
+        "x": 741,
+        "y": 1571,
+        "w": 254,
+        "h": 260
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 254,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 256
+      }
+    },
+    "tile5Frame": {
+      "frame": {
+        "x": 487,
+        "y": 262,
+        "w": 254,
+        "h": 260
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 254,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 256
+      }
+    },
+    "tile6normal_0009": {
+      "frame": {
+        "x": 488,
+        "y": 0,
+        "w": 244,
+        "h": 260
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 37,
+        "w": 244,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile15special_0008": {
+      "frame": {
+        "x": 732,
+        "y": 0,
+        "w": 244,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 38,
+        "w": 244,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile6normal_0008": {
+      "frame": {
+        "x": 487,
+        "y": 522,
+        "w": 244,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 38,
+        "w": 244,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile7normal_0003": {
+      "frame": {
+        "x": 724,
+        "y": 781,
+        "w": 237,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 45,
+        "w": 237,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile18FrameUp": {
+      "frame": {
+        "x": 731,
+        "y": 522,
+        "w": 258,
+        "h": 242
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 258,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 254,
+        "h": 238
+      }
+    },
+    "tile16special_0003": {
+      "frame": {
+        "x": 741,
+        "y": 259,
+        "w": 238,
+        "h": 258
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 46,
+        "w": 238,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile16special_0007": {
+      "frame": {
+        "x": 976,
+        "y": 0,
+        "w": 238,
+        "h": 258
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 46,
+        "w": 238,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile16special_0008": {
+      "frame": {
+        "x": 961,
+        "y": 780,
+        "w": 237,
+        "h": 258
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 46,
+        "w": 237,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile16special_0009": {
+      "frame": {
+        "x": 973,
+        "y": 517,
+        "w": 237,
+        "h": 258
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 46,
+        "w": 237,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile16special_0010": {
+      "frame": {
+        "x": 979,
+        "y": 258,
+        "w": 237,
+        "h": 258
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 46,
+        "w": 237,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile7normal_0007": {
+      "frame": {
+        "x": 1214,
+        "y": 0,
+        "w": 237,
+        "h": 258
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 46,
+        "w": 237,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile7normal_0008": {
+      "frame": {
+        "x": 962,
+        "y": 1038,
+        "w": 237,
+        "h": 258
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 46,
+        "w": 237,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile7normal_0009": {
+      "frame": {
+        "x": 1198,
+        "y": 775,
+        "w": 237,
+        "h": 258
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 46,
+        "w": 237,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile7normal_0010": {
+      "frame": {
+        "x": 1210,
+        "y": 516,
+        "w": 237,
+        "h": 258
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 46,
+        "w": 237,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile16special_0004": {
+      "frame": {
+        "x": 1216,
+        "y": 258,
+        "w": 239,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 47,
+        "w": 239,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile16special_0006": {
+      "frame": {
+        "x": 1451,
+        "y": 0,
+        "w": 239,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 47,
+        "w": 239,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile7normal_0004": {
+      "frame": {
+        "x": 978,
+        "y": 1296,
+        "w": 237,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 47,
+        "w": 237,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile7normal_0005": {
+      "frame": {
+        "x": 1199,
+        "y": 1033,
+        "w": 237,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 47,
+        "w": 237,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile7normal_0006": {
+      "frame": {
+        "x": 1435,
+        "y": 774,
+        "w": 237,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 47,
+        "w": 237,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "tile16special_0005": {
+      "frame": {
+        "x": 1447,
+        "y": 515,
+        "w": 240,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 48,
+        "w": 240,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 343
+      }
+    },
+    "featureBase": {
+      "frame": {
+        "x": 1455,
+        "y": 257,
+        "w": 255,
+        "h": 252
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 255,
+        "h": 252
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 248
+      }
+    },
+    "featureSteel1": {
+      "frame": {
+        "x": 1690,
+        "y": 0,
+        "w": 251,
+        "h": 247
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 251,
+        "h": 247
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 243
+      }
+    },
+    "featureSteel2": {
+      "frame": {
+        "x": 1707,
+        "y": 251,
+        "w": 249,
+        "h": 249
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 249,
+        "h": 249
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 245
+      }
+    },
+    "featureLight": {
+      "frame": {
+        "x": 1707,
+        "y": 500,
+        "w": 238,
+        "h": 249
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 238,
+        "h": 249
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 245
+      }
+    },
+    "featureReflection": {
+      "frame": {
+        "x": 1687,
+        "y": 738,
+        "w": 238,
+        "h": 249
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 238,
+        "h": 249
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 245
+      }
+    },
+    "skullGemActiveCircle": {
+      "frame": {
+        "x": 0,
+        "y": 1841,
+        "w": 203,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 203,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 199,
+        "h": 198
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "main_core_default_atlas_6.png?c=451fc42f27",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    }
+  }
+}

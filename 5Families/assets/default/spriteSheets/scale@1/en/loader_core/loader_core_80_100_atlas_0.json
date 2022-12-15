@@ -1,0 +1,33 @@
+{
+  "frames": {
+    "winLineGlowTile1": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 131,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 131,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 127,
+        "h": 120
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "loader_core_80_100_atlas_0.png?c=f577c553a3",
+    "size": {
+      "w": 256,
+      "h": 128
+    }
+  }
+}

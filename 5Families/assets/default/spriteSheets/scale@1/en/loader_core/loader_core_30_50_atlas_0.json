@@ -1,0 +1,273 @@
+{
+  "frames": {
+    "tile16BigBody": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 415,
+        "h": 234
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 415,
+        "h": 234
+      },
+      "sourceSize": {
+        "w": 411,
+        "h": 230
+      }
+    },
+    "tile16BigHand": {
+      "frame": {
+        "x": 415,
+        "y": 0,
+        "w": 130,
+        "h": 405
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 130,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 401
+      }
+    },
+    "tile17BigBody": {
+      "frame": {
+        "x": 820,
+        "y": 0,
+        "w": 383,
+        "h": 213
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 383,
+        "h": 213
+      },
+      "sourceSize": {
+        "w": 379,
+        "h": 209
+      }
+    },
+    "tile17BigHandL": {
+      "frame": {
+        "x": 415,
+        "y": 130,
+        "w": 379,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 379,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 375,
+        "h": 166
+      }
+    },
+    "tile17BigHandR": {
+      "frame": {
+        "x": 0,
+        "y": 234,
+        "w": 150,
+        "h": 371
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 150,
+        "h": 371
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 367
+      }
+    },
+    "tile18BigHead": {
+      "frame": {
+        "x": 1203,
+        "y": 0,
+        "w": 360,
+        "h": 329
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 360,
+        "h": 329
+      },
+      "sourceSize": {
+        "w": 356,
+        "h": 325
+      }
+    },
+    "tile15BigBody": {
+      "frame": {
+        "x": 794,
+        "y": 213,
+        "w": 315,
+        "h": 195
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 315,
+        "h": 195
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 191
+      }
+    },
+    "tile16BigHead": {
+      "frame": {
+        "x": 371,
+        "y": 300,
+        "w": 238,
+        "h": 266
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 238,
+        "h": 266
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 262
+      }
+    },
+    "tile15BigHat": {
+      "frame": {
+        "x": 637,
+        "y": 300,
+        "w": 239,
+        "h": 138
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 239,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 235,
+        "h": 134
+      }
+    },
+    "tile18BigSmokingFace01": {
+      "frame": {
+        "x": 0,
+        "y": 384,
+        "w": 221,
+        "h": 181
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 221,
+        "h": 181
+      },
+      "sourceSize": {
+        "w": 217,
+        "h": 177
+      }
+    },
+    "tile18BigFaceNormal": {
+      "frame": {
+        "x": 221,
+        "y": 538,
+        "w": 221,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 221,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 217,
+        "h": 161
+      }
+    },
+    "tile15BigHand": {
+      "frame": {
+        "x": 442,
+        "y": 538,
+        "w": 122,
+        "h": 182
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 122,
+        "h": 182
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 178
+      }
+    },
+    "tile18BigMouth": {
+      "frame": {
+        "x": 221,
+        "y": 384,
+        "w": 128,
+        "h": 133
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 128,
+        "h": 133
+      },
+      "sourceSize": {
+        "w": 124,
+        "h": 129
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "loader_core_30_50_atlas_0.png?c=a78a7b2279",
+    "size": {
+      "w": 2048,
+      "h": 1024
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "frames": {
+    "beamSplashPad": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1271,
+        "h": 937
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 1271,
+        "h": 937
+      },
+      "sourceSize": {
+        "w": 1267,
+        "h": 933
+      }
+    },
+    "beamSplashPlate": {
+      "frame": {
+        "x": 1271,
+        "y": 0,
+        "w": 661,
+        "h": 462
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 661,
+        "h": 462
+      },
+      "sourceSize": {
+        "w": 657,
+        "h": 458
+      }
+    },
+    "tile100Plate": {
+      "frame": {
+        "x": 1271,
+        "y": 462,
+        "w": 231,
+        "h": 161
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 231,
+        "h": 161
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 157
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "main_core_beam_atlas_0.png?c=2fe19f6935",
+    "size": {
+      "w": 2048,
+      "h": 1024
+    }
+  }
+}

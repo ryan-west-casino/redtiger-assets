@@ -1,0 +1,22 @@
+<font>
+	<info face="freeSpinsSplashFont" size="250" bold="0" italic="0" chasrset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="1,1"/>
+	<common lineHeight="250" scaleW="100%" scaleH="100%" pages="1" packed="0"/>
+	<pages>
+		<page id="0" file="freeSpinsSplashFont_atlas_0.png?c=ca43d81abe"/>
+	</pages>
+	<chars count="12">
+		<char id="32" x="0" y="0" width="87" height="0" xoffset="0" yoffset="0" xadvance="87" page="0" chnl="0" letter=" "/>
+		<char id="52" x="0" y="0" width="229" height="250" xoffset="0" yoffset="0" xadvance="229" page="0" chnl="0" letter="4"/>
+		<char id="56" x="0" y="250" width="199" height="250" xoffset="0" yoffset="0" xadvance="199" page="0" chnl="0" letter="8"/>
+		<char id="50" x="0" y="500" width="194" height="250" xoffset="0" yoffset="0" xadvance="194" page="0" chnl="0" letter="2"/>
+		<char id="120" x="0" y="750" width="193" height="250" xoffset="0" yoffset="0" xadvance="193" page="0" chnl="0" letter="x"/>
+		<char id="48" x="0" y="1000" width="192" height="250" xoffset="0" yoffset="0" xadvance="192" page="0" chnl="0" letter="0"/>
+		<char id="54" x="0" y="1250" width="190" height="250" xoffset="0" yoffset="0" xadvance="190" page="0" chnl="0" letter="6"/>
+		<char id="57" x="0" y="1500" width="189" height="250" xoffset="0" yoffset="0" xadvance="189" page="0" chnl="0" letter="9"/>
+		<char id="53" x="0" y="1750" width="179" height="250" xoffset="0" yoffset="0" xadvance="179" page="0" chnl="0" letter="5"/>
+		<char id="51" x="179" y="1750" width="174" height="250" xoffset="0" yoffset="0" xadvance="174" page="0" chnl="0" letter="3"/>
+		<char id="55" x="189" y="1500" width="161" height="250" xoffset="0" yoffset="0" xadvance="161" page="0" chnl="0" letter="7"/>
+		<char id="43" x="190" y="1250" width="143" height="250" xoffset="0" yoffset="0" xadvance="143" page="0" chnl="0" letter="+"/>
+		<char id="49" x="192" y="1000" width="122" height="250" xoffset="0" yoffset="0" xadvance="122" page="0" chnl="0" letter="1"/>
+	</chars>
+</font>

@@ -1,0 +1,773 @@
+{
+  "frames": {
+    "superWinGun": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 832,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 832,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 828,
+        "h": 246
+      }
+    },
+    "faceAll": {
+      "frame": {
+        "x": 832,
+        "y": 0,
+        "w": 828,
+        "h": 370
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 828,
+        "h": 370
+      },
+      "sourceSize": {
+        "w": 824,
+        "h": 366
+      }
+    },
+    "splashFrameUp": {
+      "frame": {
+        "x": 0,
+        "y": 250,
+        "w": 778,
+        "h": 479
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 778,
+        "h": 479
+      },
+      "sourceSize": {
+        "w": 774,
+        "h": 475
+      }
+    },
+    "splashFrameDown": {
+      "frame": {
+        "x": 1660,
+        "y": 0,
+        "w": 778,
+        "h": 144
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 778,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 774,
+        "h": 141
+      }
+    },
+    "blackVignette": {
+      "frame": {
+        "x": 778,
+        "y": 370,
+        "w": 692,
+        "h": 653
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 692,
+        "h": 653
+      },
+      "sourceSize": {
+        "w": 688,
+        "h": 649
+      }
+    },
+    "megaWinWheelPiece": {
+      "frame": {
+        "x": 0,
+        "y": 729,
+        "w": 627,
+        "h": 627
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 627,
+        "h": 627
+      },
+      "sourceSize": {
+        "w": 623,
+        "h": 623
+      }
+    },
+    "splashFrameDropShadowSmall": {
+      "frame": {
+        "x": 1470,
+        "y": 778,
+        "w": 566,
+        "h": 446
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 566,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 562,
+        "h": 442
+      }
+    },
+    "explosionBlinks5": {
+      "frame": {
+        "x": 0,
+        "y": 1356,
+        "w": 471,
+        "h": 355
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 471,
+        "h": 355
+      },
+      "sourceSize": {
+        "w": 467,
+        "h": 351
+      }
+    },
+    "megaWinOrnamentUp1": {
+      "frame": {
+        "x": 355,
+        "y": 1356,
+        "w": 467,
+        "h": 257
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 467,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 463,
+        "h": 253
+      }
+    },
+    "tile100Aim": {
+      "frame": {
+        "x": 612,
+        "y": 1356,
+        "w": 441,
+        "h": 440
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 441,
+        "h": 440
+      },
+      "sourceSize": {
+        "w": 437,
+        "h": 436
+      }
+    },
+    "megaWinOrnamentUp2": {
+      "frame": {
+        "x": 0,
+        "y": 1827,
+        "w": 437,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 437,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 433,
+        "h": 197
+      }
+    },
+    "slotFrameNormalOrnament": {
+      "frame": {
+        "x": 627,
+        "y": 1224,
+        "w": 397,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 397,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 393,
+        "h": 127
+      }
+    },
+    "slotFrameSpecialOrnament": {
+      "frame": {
+        "x": 1024,
+        "y": 1224,
+        "w": 397,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 397,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 393,
+        "h": 127
+      }
+    },
+    "tile100Particles": {
+      "frame": {
+        "x": 1421,
+        "y": 1224,
+        "w": 375,
+        "h": 385
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 375,
+        "h": 385
+      },
+      "sourceSize": {
+        "w": 371,
+        "h": 381
+      }
+    },
+    "tile18special_0014": {
+      "frame": {
+        "x": 1052,
+        "y": 1355,
+        "w": 325,
+        "h": 361
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 4,
+        "w": 325,
+        "h": 361
+      },
+      "sourceSize": {
+        "w": 355,
+        "h": 400
+      }
+    },
+    "coin3_0026": {
+      "frame": {
+        "x": 1052,
+        "y": 1680,
+        "w": 354,
+        "h": 340
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": 12,
+        "w": 354,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 350,
+        "h": 350
+      }
+    },
+    "coin3_0004": {
+      "frame": {
+        "x": 612,
+        "y": 1797,
+        "w": 243,
+        "h": 354
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 65,
+        "y": -2,
+        "w": 243,
+        "h": 354
+      },
+      "sourceSize": {
+        "w": 350,
+        "h": 350
+      }
+    },
+    "coin3_0002": {
+      "frame": {
+        "x": 1392,
+        "y": 1680,
+        "w": 284,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 3,
+        "w": 284,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 350,
+        "h": 350
+      }
+    },
+    "coin3_0024": {
+      "frame": {
+        "x": 1676,
+        "y": 1599,
+        "w": 331,
+        "h": 340
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 331,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 350,
+        "h": 350
+      }
+    },
+    "coin3_0008": {
+      "frame": {
+        "x": 1806,
+        "y": 1224,
+        "w": 338,
+        "h": 231
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": 74,
+        "w": 338,
+        "h": 231
+      },
+      "sourceSize": {
+        "w": 350,
+        "h": 350
+      }
+    },
+    "coin3_0000": {
+      "frame": {
+        "x": 1804,
+        "y": 0,
+        "w": 234,
+        "h": 325
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 23,
+        "w": 234,
+        "h": 325
+      },
+      "sourceSize": {
+        "w": 350,
+        "h": 350
+      }
+    },
+    "coin3_0018": {
+      "frame": {
+        "x": 1470,
+        "y": 370,
+        "w": 190,
+        "h": 303
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 18,
+        "w": 190,
+        "h": 303
+      },
+      "sourceSize": {
+        "w": 350,
+        "h": 350
+      }
+    },
+    "coin3_0016": {
+      "frame": {
+        "x": 1804,
+        "y": 325,
+        "w": 227,
+        "h": 302
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 52,
+        "y": 22,
+        "w": 227,
+        "h": 302
+      },
+      "sourceSize": {
+        "w": 350,
+        "h": 350
+      }
+    },
+    "slotFrameSpecialCards": {
+      "frame": {
+        "x": 627,
+        "y": 729,
+        "w": 265,
+        "h": 138
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 265,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 261,
+        "h": 134
+      }
+    },
+    "tile9Frame": {
+      "frame": {
+        "x": 627,
+        "y": 1023,
+        "w": 258,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 258,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 254,
+        "h": 169
+      }
+    },
+    "tile7Frame": {
+      "frame": {
+        "x": 885,
+        "y": 1023,
+        "w": 258,
+        "h": 159
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 258,
+        "h": 159
+      },
+      "sourceSize": {
+        "w": 254,
+        "h": 155
+      }
+    },
+    "tile16FrameUp": {
+      "frame": {
+        "x": 1143,
+        "y": 1023,
+        "w": 258,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 258,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 254,
+        "h": 137
+      }
+    },
+    "tile13BriefcaseLid": {
+      "frame": {
+        "x": 437,
+        "y": 1823,
+        "w": 219,
+        "h": 123
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 219,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 215,
+        "h": 119
+      }
+    },
+    "slotFrameNormalCards": {
+      "frame": {
+        "x": 1804,
+        "y": 627,
+        "w": 218,
+        "h": 135
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 218,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 131
+      }
+    },
+    "splashCharFrameOpenSmall": {
+      "frame": {
+        "x": 1676,
+        "y": 1930,
+        "w": 203,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 203,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 199,
+        "h": 95
+      }
+    },
+    "fxBlink_0001": {
+      "frame": {
+        "x": 1413,
+        "y": 1599,
+        "w": 171,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 120,
+        "w": 171,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 277,
+        "h": 232
+      }
+    },
+    "tile13Money2": {
+      "frame": {
+        "x": 1470,
+        "y": 673,
+        "w": 153,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 153,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 149,
+        "h": 94
+      }
+    },
+    "tile100RingStone03": {
+      "frame": {
+        "x": 1879,
+        "y": 1930,
+        "w": 93,
+        "h": 152
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 93,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 89,
+        "h": 148
+      }
+    },
+    "coin_0016": {
+      "frame": {
+        "x": 966,
+        "y": 1797,
+        "w": 77,
+        "h": 151
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 78,
+        "w": 77,
+        "h": 151
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 300
+      }
+    },
+    "tile2Ice2": {
+      "frame": {
+        "x": 1584,
+        "y": 1599,
+        "w": 81,
+        "h": 78
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 81,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 77,
+        "h": 74
+      }
+    },
+    "tile100RingStone04Logo": {
+      "frame": {
+        "x": 1401,
+        "y": 1023,
+        "w": 68,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 68,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 67
+      }
+    },
+    "tile2Ice1": {
+      "frame": {
+        "x": 1401,
+        "y": 1094,
+        "w": 68,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 68,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 67
+      }
+    },
+    "featureCenterOuter": {
+      "frame": {
+        "x": 966,
+        "y": 1948,
+        "w": 69,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 69,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 65
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "main_core_default_atlas_2.png?c=acabdcf4f0",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    }
+  }
+}

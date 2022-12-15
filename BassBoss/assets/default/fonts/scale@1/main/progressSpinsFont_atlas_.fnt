@@ -1,0 +1,23 @@
+<font>
+	<info face="progressSpinsFont" size="90" bold="0" italic="0" chasrset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="1,1"/>
+	<common lineHeight="90" scaleW="100%" scaleH="100%" pages="1" packed="0"/>
+	<pages>
+		<page id="0" file="progressSpinsFont_atlas_0.png?c=fd99827951"/>
+	</pages>
+	<chars count="13">
+		<char id="32" x="0" y="0" width="31" height="0" xoffset="0" yoffset="0" xadvance="31" page="0" chnl="0" letter=" "/>
+		<char id="50" x="0" y="0" width="56" height="90" xoffset="0" yoffset="0" xadvance="56" page="0" chnl="0" letter="2"/>
+		<char id="51" x="0" y="90" width="56" height="90" xoffset="0" yoffset="0" xadvance="56" page="0" chnl="0" letter="3"/>
+		<char id="52" x="0" y="180" width="56" height="90" xoffset="0" yoffset="0" xadvance="56" page="0" chnl="0" letter="4"/>
+		<char id="53" x="0" y="270" width="55" height="90" xoffset="0" yoffset="0" xadvance="55" page="0" chnl="0" letter="5"/>
+		<char id="56" x="0" y="360" width="55" height="90" xoffset="0" yoffset="0" xadvance="55" page="0" chnl="0" letter="8"/>
+		<char id="48" x="0" y="450" width="54" height="90" xoffset="0" yoffset="0" xadvance="54" page="0" chnl="0" letter="0"/>
+		<char id="47" x="0" y="540" width="53" height="90" xoffset="0" yoffset="0" xadvance="53" page="0" chnl="0" letter="/"/>
+		<char id="55" x="0" y="630" width="52" height="90" xoffset="0" yoffset="0" xadvance="52" page="0" chnl="0" letter="7"/>
+		<char id="120" x="0" y="720" width="52" height="90" xoffset="0" yoffset="0" xadvance="52" page="0" chnl="0" letter="x"/>
+		<char id="54" x="0" y="810" width="50" height="90" xoffset="0" yoffset="0" xadvance="50" page="0" chnl="0" letter="6"/>
+		<char id="57" x="0" y="900" width="50" height="90" xoffset="0" yoffset="0" xadvance="50" page="0" chnl="0" letter="9"/>
+		<char id="43" x="0" y="990" width="48" height="90" xoffset="0" yoffset="0" xadvance="48" page="0" chnl="0" letter="+"/>
+		<char id="49" x="0" y="1080" width="39" height="90" xoffset="0" yoffset="0" xadvance="39" page="0" chnl="0" letter="1"/>
+	</chars>
+</font>

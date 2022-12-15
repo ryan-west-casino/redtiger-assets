@@ -1,0 +1,393 @@
+{
+  "frames": {
+    "shiftSplashPad": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1276,
+        "h": 940
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 1276,
+        "h": 940
+      },
+      "sourceSize": {
+        "w": 1272,
+        "h": 936
+      }
+    },
+    "extraWinBgDarkGlow": {
+      "frame": {
+        "x": 0,
+        "y": 940,
+        "w": 1016,
+        "h": 861
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 1016,
+        "h": 861
+      },
+      "sourceSize": {
+        "w": 1012,
+        "h": 857
+      }
+    },
+    "freeSpinsSplashParticles": {
+      "frame": {
+        "x": 1276,
+        "y": 0,
+        "w": 818,
+        "h": 617
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 818,
+        "h": 617
+      },
+      "sourceSize": {
+        "w": 814,
+        "h": 613
+      }
+    },
+    "blackVignette": {
+      "frame": {
+        "x": 1276,
+        "y": 818,
+        "w": 692,
+        "h": 653
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 692,
+        "h": 653
+      },
+      "sourceSize": {
+        "w": 688,
+        "h": 649
+      }
+    },
+    "dragonHeadHalf": {
+      "frame": {
+        "x": 861,
+        "y": 1471,
+        "w": 661,
+        "h": 422
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 661,
+        "h": 422
+      },
+      "sourceSize": {
+        "w": 657,
+        "h": 418
+      }
+    },
+    "paytable1Lightning3": {
+      "frame": {
+        "x": 1522,
+        "y": 1471,
+        "w": 339,
+        "h": 559
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 339,
+        "h": 559
+      },
+      "sourceSize": {
+        "w": 335,
+        "h": 555
+      }
+    },
+    "thunderSplashLightning1": {
+      "frame": {
+        "x": 1861,
+        "y": 1471,
+        "w": 438,
+        "h": 152
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 438,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 434,
+        "h": 148
+      }
+    },
+    "logoPlateGlow": {
+      "frame": {
+        "x": 1893,
+        "y": 0,
+        "w": 419,
+        "h": 97
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 419,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 415,
+        "h": 93
+      }
+    },
+    "shiftSplashMotion5": {
+      "frame": {
+        "x": 861,
+        "y": 940,
+        "w": 407,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 407,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 403,
+        "h": 108
+      }
+    },
+    "beamSplashSparkles": {
+      "frame": {
+        "x": 861,
+        "y": 1052,
+        "w": 379,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 379,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 375,
+        "h": 185
+      }
+    },
+    "thunderSplashLightning2": {
+      "frame": {
+        "x": 861,
+        "y": 1893,
+        "w": 347,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 347,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 343,
+        "h": 106
+      }
+    },
+    "sceneSlotSpecialBarRight": {
+      "frame": {
+        "x": 0,
+        "y": 1956,
+        "w": 306,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 306,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 302,
+        "h": 82
+      }
+    },
+    "greenSwiftEffect": {
+      "frame": {
+        "x": 861,
+        "y": 1241,
+        "w": 179,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": -1,
+        "w": 179,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 249,
+        "h": 283
+      }
+    },
+    "quakeSplashParticle2": {
+      "frame": {
+        "x": 1893,
+        "y": 419,
+        "w": 235,
+        "h": 106
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 235,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 231,
+        "h": 102
+      }
+    },
+    "coin_0019": {
+      "frame": {
+        "x": 1123,
+        "y": 1241,
+        "w": 146,
+        "h": 228
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 4,
+        "w": 146,
+        "h": 228
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 230
+      }
+    },
+    "coin_0006": {
+      "frame": {
+        "x": 1208,
+        "y": 1893,
+        "w": 217,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 48,
+        "w": 217,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 230
+      }
+    },
+    "explosionSpriteBlue3": {
+      "frame": {
+        "x": 1893,
+        "y": 654,
+        "w": 162,
+        "h": 147
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 91,
+        "w": 162,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 314
+      }
+    },
+    "quakeSplashParticle7": {
+      "frame": {
+        "x": 1861,
+        "y": 1909,
+        "w": 158,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 158,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 123
+      }
+    },
+    "quakeReflection2": {
+      "frame": {
+        "x": 1425,
+        "y": 1893,
+        "w": 95,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": 0,
+        "w": 95,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 91,
+        "h": 116
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "main_core_default_atlas_3.png?c=f4cbc7f26d",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    }
+  }
+}

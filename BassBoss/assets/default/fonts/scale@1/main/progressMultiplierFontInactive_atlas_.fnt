@@ -1,0 +1,23 @@
+<font>
+	<info face="progressMultiplierFontInactive" size="75" bold="0" italic="0" chasrset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="1,1"/>
+	<common lineHeight="75" scaleW="100%" scaleH="100%" pages="1" packed="0"/>
+	<pages>
+		<page id="0" file="progressMultiplierFontInactive_atlas_0.png?c=b5e1455600"/>
+	</pages>
+	<chars count="13">
+		<char id="32" x="0" y="0" width="26" height="0" xoffset="0" yoffset="0" xadvance="26" page="0" chnl="0" letter=" "/>
+		<char id="50" x="0" y="0" width="47" height="75" xoffset="0" yoffset="0" xadvance="47" page="0" chnl="0" letter="2"/>
+		<char id="51" x="0" y="75" width="47" height="75" xoffset="0" yoffset="0" xadvance="47" page="0" chnl="0" letter="3"/>
+		<char id="56" x="0" y="150" width="47" height="75" xoffset="0" yoffset="0" xadvance="47" page="0" chnl="0" letter="8"/>
+		<char id="52" x="0" y="225" width="46" height="75" xoffset="0" yoffset="0" xadvance="46" page="0" chnl="0" letter="4"/>
+		<char id="53" x="0" y="300" width="46" height="75" xoffset="0" yoffset="0" xadvance="46" page="0" chnl="0" letter="5"/>
+		<char id="43" x="0" y="375" width="44" height="75" xoffset="0" yoffset="0" xadvance="44" page="0" chnl="0" letter="+"/>
+		<char id="48" x="0" y="450" width="44" height="75" xoffset="0" yoffset="0" xadvance="44" page="0" chnl="0" letter="0"/>
+		<char id="55" x="0" y="525" width="43" height="75" xoffset="0" yoffset="0" xadvance="43" page="0" chnl="0" letter="7"/>
+		<char id="47" x="0" y="600" width="43" height="75" xoffset="0" yoffset="0" xadvance="43" page="0" chnl="0" letter="/"/>
+		<char id="57" x="0" y="675" width="42" height="75" xoffset="0" yoffset="0" xadvance="42" page="0" chnl="0" letter="9"/>
+		<char id="54" x="0" y="750" width="41" height="75" xoffset="0" yoffset="0" xadvance="41" page="0" chnl="0" letter="6"/>
+		<char id="120" x="0" y="825" width="39" height="75" xoffset="0" yoffset="0" xadvance="39" page="0" chnl="0" letter="x"/>
+		<char id="49" x="0" y="900" width="31" height="75" xoffset="0" yoffset="0" xadvance="31" page="0" chnl="0" letter="1"/>
+	</chars>
+</font>

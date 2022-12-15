@@ -1,0 +1,33 @@
+{
+  "frames": {
+    "quakeSplashCharacter": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 875,
+        "h": 947
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 875,
+        "h": 947
+      },
+      "sourceSize": {
+        "w": 871,
+        "h": 943
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "loader_core_green_atlas_0.png?c=a02a690521",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    }
+  }
+}

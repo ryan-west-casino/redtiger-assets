@@ -1,0 +1,3875 @@
+{
+    "resolutions": {
+        "XHD": 1,
+        "HD": 1,
+        "MD": 0.6,
+        "SD": 0.4,
+        "XSD": 0.4
+    },
+    "default": {
+        "animate": {
+            "loader": [
+                {
+                    "src": "assets/default/animate/loader/lib.animate.js?c=cf4ac06c1a",
+                    "id": "lib.animate",
+                    "ext": ".js",
+                    "size": 54944
+                }
+            ],
+            "main": [
+                {
+                    "src": "assets/default/animate/main/lib.animate.js?c=ee96898878",
+                    "id": "lib.animate",
+                    "ext": ".js",
+                    "size": 2525086
+                }
+            ]
+        },
+        "fonts": {
+            "scale@0_4": {
+                "main": [
+                    {
+                        "src": "assets/default/fonts/scale@0_4/main/sumFont_atlas_.fnt?c=0131835849",
+                        "id": "sumFont_atlas_",
+                        "ext": ".fnt",
+                        "size": 16458
+                    },
+                    {
+                        "src": "assets/default/fonts/scale@0_4/main/sumFontSmall_atlas_.fnt?c=d26ee5275d",
+                        "id": "sumFontSmall_atlas_",
+                        "ext": ".fnt",
+                        "size": 16354
+                    },
+                    {
+                        "src": "assets/default/fonts/scale@0_4/main/multiplierFont_atlas_.fnt?c=69de567b7d",
+                        "id": "multiplierFont_atlas_",
+                        "ext": ".fnt",
+                        "size": 1932
+                    },
+                    {
+                        "src": "assets/default/fonts/scale@0_4/main/freeSpinsSplashFont_atlas_.fnt?c=66ab12adf6",
+                        "id": "freeSpinsSplashFont_atlas_",
+                        "ext": ".fnt",
+                        "size": 1961
+                    },
+                    {
+                        "src": "assets/default/fonts/scale@0_4/main/freeSpinsFont_atlas_.fnt?c=d4e32cf960",
+                        "id": "freeSpinsFont_atlas_",
+                        "ext": ".fnt",
+                        "size": 1927
+                    }
+                ]
+            },
+            "scale@0_6": {
+                "main": [
+                    {
+                        "src": "assets/default/fonts/scale@0_6/main/sumFont_atlas_.fnt?c=0b67169120",
+                        "id": "sumFont_atlas_",
+                        "ext": ".fnt",
+                        "size": 16673
+                    },
+                    {
+                        "src": "assets/default/fonts/scale@0_6/main/sumFontSmall_atlas_.fnt?c=9ece79d721",
+                        "id": "sumFontSmall_atlas_",
+                        "ext": ".fnt",
+                        "size": 16417
+                    },
+                    {
+                        "src": "assets/default/fonts/scale@0_6/main/multiplierFont_atlas_.fnt?c=953f6e5b9a",
+                        "id": "multiplierFont_atlas_",
+                        "ext": ".fnt",
+                        "size": 1933
+                    },
+                    {
+                        "src": "assets/default/fonts/scale@0_6/main/freeSpinsSplashFont_atlas_.fnt?c=f8ca7c8d2a",
+                        "id": "freeSpinsSplashFont_atlas_",
+                        "ext": ".fnt",
+                        "size": 1982
+                    },
+                    {
+                        "src": "assets/default/fonts/scale@0_6/main/freeSpinsFont_atlas_.fnt?c=ed44b5599f",
+                        "id": "freeSpinsFont_atlas_",
+                        "ext": ".fnt",
+                        "size": 1930
+                    }
+                ]
+            },
+            "scale@1": {
+                "main": [
+                    {
+                        "src": "assets/default/fonts/scale@1/main/sumFont_atlas_.fnt?c=1547aeeaff",
+                        "id": "sumFont_atlas_",
+                        "ext": ".fnt",
+                        "size": 16927
+                    },
+                    {
+                        "src": "assets/default/fonts/scale@1/main/sumFontSmall_atlas_.fnt?c=3af7ab1ee1",
+                        "id": "sumFontSmall_atlas_",
+                        "ext": ".fnt",
+                        "size": 16662
+                    },
+                    {
+                        "src": "assets/default/fonts/scale@1/main/multiplierFont_atlas_.fnt?c=055e6bcba4",
+                        "id": "multiplierFont_atlas_",
+                        "ext": ".fnt",
+                        "size": 1934
+                    },
+                    {
+                        "src": "assets/default/fonts/scale@1/main/freeSpinsSplashFont_atlas_.fnt?c=0ac181ad00",
+                        "id": "freeSpinsSplashFont_atlas_",
+                        "ext": ".fnt",
+                        "size": 1999
+                    },
+                    {
+                        "src": "assets/default/fonts/scale@1/main/freeSpinsFont_atlas_.fnt?c=db19d88835",
+                        "id": "freeSpinsFont_atlas_",
+                        "ext": ".fnt",
+                        "size": 1932
+                    }
+                ]
+            }
+        },
+        "help": [
+            {
+                "src": "assets/default/help/help_zh.html?c=9bfa9a3195",
+                "id": "help_zh",
+                "ext": ".html",
+                "size": 923
+            },
+            {
+                "src": "assets/default/help/help_zh-TW.html?c=479b199b13",
+                "id": "help_zh-TW",
+                "ext": ".html",
+                "size": 918
+            },
+            {
+                "src": "assets/default/help/help_vi.html?c=7e7021173d",
+                "id": "help_vi",
+                "ext": ".html",
+                "size": 1456
+            },
+            {
+                "src": "assets/default/help/help_tr.html?c=bff74bbaee",
+                "id": "help_tr",
+                "ext": ".html",
+                "size": 1201
+            },
+            {
+                "src": "assets/default/help/help_th.html?c=798059a07f",
+                "id": "help_th",
+                "ext": ".html",
+                "size": 2801
+            },
+            {
+                "src": "assets/default/help/help_sv.html?c=044bedb2d6",
+                "id": "help_sv",
+                "ext": ".html",
+                "size": 1146
+            },
+            {
+                "src": "assets/default/help/help_sl.html?c=5a94219592",
+                "id": "help_sl",
+                "ext": ".html",
+                "size": 1109
+            },
+            {
+                "src": "assets/default/help/help_sk.html?c=1cdb812166",
+                "id": "help_sk",
+                "ext": ".html",
+                "size": 1249
+            },
+            {
+                "src": "assets/default/help/help_ru.html?c=5cca3010a4",
+                "id": "help_ru",
+                "ext": ".html",
+                "size": 1888
+            },
+            {
+                "src": "assets/default/help/help_pt.html?c=20cbdfba96",
+                "id": "help_pt",
+                "ext": ".html",
+                "size": 1213
+            },
+            {
+                "src": "assets/default/help/help_pt-BR.html?c=799fce828d",
+                "id": "help_pt-BR",
+                "ext": ".html",
+                "size": 1181
+            },
+            {
+                "src": "assets/default/help/help_pl.html?c=930cf6e28f",
+                "id": "help_pl",
+                "ext": ".html",
+                "size": 1193
+            },
+            {
+                "src": "assets/default/help/help_no.html?c=8e1cf3b41f",
+                "id": "help_no",
+                "ext": ".html",
+                "size": 1145
+            },
+            {
+                "src": "assets/default/help/help_nl.html?c=ac22108a01",
+                "id": "help_nl",
+                "ext": ".html",
+                "size": 1175
+            },
+            {
+                "src": "assets/default/help/help_ms.html?c=010a815402",
+                "id": "help_ms",
+                "ext": ".html",
+                "size": 1233
+            },
+            {
+                "src": "assets/default/help/help_ko.html?c=1ef0ab7525",
+                "id": "help_ko",
+                "ext": ".html",
+                "size": 1457
+            },
+            {
+                "src": "assets/default/help/help_ka.html?c=3bf9ce5b01",
+                "id": "help_ka",
+                "ext": ".html",
+                "size": 2941
+            },
+            {
+                "src": "assets/default/help/help_ja.html?c=97e122be98",
+                "id": "help_ja",
+                "ext": ".html",
+                "size": 1449
+            },
+            {
+                "src": "assets/default/help/help_it.html?c=3b98e5d272",
+                "id": "help_it",
+                "ext": ".html",
+                "size": 1210
+            },
+            {
+                "src": "assets/default/help/help_id.html?c=41a6e125a7",
+                "id": "help_id",
+                "ext": ".html",
+                "size": 1130
+            },
+            {
+                "src": "assets/default/help/help_hy.html?c=e0ec6dd6f3",
+                "id": "help_hy",
+                "ext": ".html",
+                "size": 2152
+            },
+            {
+                "src": "assets/default/help/help_hu.html?c=c8326ec4cf",
+                "id": "help_hu",
+                "ext": ".html",
+                "size": 1259
+            },
+            {
+                "src": "assets/default/help/help_hr.html?c=95c40437f6",
+                "id": "help_hr",
+                "ext": ".html",
+                "size": 1138
+            },
+            {
+                "src": "assets/default/help/help_hi.html?c=19232d844f",
+                "id": "help_hi",
+                "ext": ".html",
+                "size": 2540
+            },
+            {
+                "src": "assets/default/help/help_fr.html?c=d29f4587c6",
+                "id": "help_fr",
+                "ext": ".html",
+                "size": 1394
+            },
+            {
+                "src": "assets/default/help/help_fi.html?c=0b4bf55fbe",
+                "id": "help_fi",
+                "ext": ".html",
+                "size": 1163
+            },
+            {
+                "src": "assets/default/help/help_es.html?c=5f2158ba4b",
+                "id": "help_es",
+                "ext": ".html",
+                "size": 1228
+            },
+            {
+                "src": "assets/default/help/help_es-PE.html?c=64b81b69e7",
+                "id": "help_es-PE",
+                "ext": ".html",
+                "size": 1184
+            },
+            {
+                "src": "assets/default/help/help_en.html?c=d6450a8e5e",
+                "id": "help_en",
+                "ext": ".html",
+                "size": 1212
+            },
+            {
+                "src": "assets/default/help/help_el.html?c=2e3b82d4ee",
+                "id": "help_el",
+                "ext": ".html",
+                "size": 2331
+            },
+            {
+                "src": "assets/default/help/help_de.html?c=8f5f16e933",
+                "id": "help_de",
+                "ext": ".html",
+                "size": 1196
+            },
+            {
+                "src": "assets/default/help/help_da.html?c=c934f13bbb",
+                "id": "help_da",
+                "ext": ".html",
+                "size": 1138
+            },
+            {
+                "src": "assets/default/help/help_cs.html?c=36b9961967",
+                "id": "help_cs",
+                "ext": ".html",
+                "size": 1244
+            }
+        ],
+        "images": {
+            "scale@0_4": {
+                "en": {
+                    "loader_core": [
+                        {
+                            "src": "assets/default/images/scale@0_4/en/loader_core/slot.jpg?c=93c8e34350",
+                            "id": "slot",
+                            "ext": ".jpg",
+                            "size": 3556
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_4/en/loader_core/sceneSlot.jpg?c=c3f922d14d",
+                            "id": "sceneSlot",
+                            "ext": ".jpg",
+                            "size": 15625
+                        }
+                    ],
+                    "main_core": [
+                        {
+                            "src": "assets/default/images/scale@0_4/en/main_core/tile9Fat4x4Bg.jpg?c=a40ee6405f",
+                            "id": "tile9Fat4x4Bg",
+                            "ext": ".jpg",
+                            "size": 2249
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_4/en/main_core/tile9Bg.jpg?c=9b0d075592",
+                            "id": "tile9Bg",
+                            "ext": ".jpg",
+                            "size": 764
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_4/en/main_core/tile8Fat4x4Bg.jpg?c=674b7f9f98",
+                            "id": "tile8Fat4x4Bg",
+                            "ext": ".jpg",
+                            "size": 1968
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_4/en/main_core/tile8Bg.jpg?c=791ba76624",
+                            "id": "tile8Bg",
+                            "ext": ".jpg",
+                            "size": 770
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_4/en/main_core/tile7Fat4x4Bg.jpg?c=6c7d22d6ec",
+                            "id": "tile7Fat4x4Bg",
+                            "ext": ".jpg",
+                            "size": 2052
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_4/en/main_core/tile7Bg.jpg?c=30267ed213",
+                            "id": "tile7Bg",
+                            "ext": ".jpg",
+                            "size": 709
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_4/en/main_core/tile6Fat4x4Bg.jpg?c=c77ba665f1",
+                            "id": "tile6Fat4x4Bg",
+                            "ext": ".jpg",
+                            "size": 2268
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_4/en/main_core/tile6Bg.jpg?c=2d4dc74ffa",
+                            "id": "tile6Bg",
+                            "ext": ".jpg",
+                            "size": 784
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_4/en/main_core/tile5Fat4x4Bg.jpg?c=ede1b23cc8",
+                            "id": "tile5Fat4x4Bg",
+                            "ext": ".jpg",
+                            "size": 1929
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_4/en/main_core/tile5Bg.jpg?c=ea6ed8aead",
+                            "id": "tile5Bg",
+                            "ext": ".jpg",
+                            "size": 735
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_4/en/main_core/sceneSlotSpecial.jpg?c=744aaf367f",
+                            "id": "sceneSlotSpecial",
+                            "ext": ".jpg",
+                            "size": 62560
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_4/en/main_core/sceneSlotDarken.jpg?c=6f14bd7204",
+                            "id": "sceneSlotDarken",
+                            "ext": ".jpg",
+                            "size": 507
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_4/en/main_core/freeSpinsSplashFade.jpg?c=2d5c473c74",
+                            "id": "freeSpinsSplashFade",
+                            "ext": ".jpg",
+                            "size": 506
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_4/en/main_core/anticipationWhiteShine.jpg?c=2b01d729aa",
+                            "id": "anticipationWhiteShine",
+                            "ext": ".jpg",
+                            "size": 504
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_4/en/main_core/anticipationBaseBig.jpg?c=9c9c4b7b0d",
+                            "id": "anticipationBaseBig",
+                            "ext": ".jpg",
+                            "size": 790
+                        }
+                    ]
+                }
+            },
+            "scale@0_6": {
+                "en": {
+                    "loader_core": [
+                        {
+                            "src": "assets/default/images/scale@0_6/en/loader_core/slot.jpg?c=3e1880eb68",
+                            "id": "slot",
+                            "ext": ".jpg",
+                            "size": 6696
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_6/en/loader_core/sceneSlot.jpg?c=1788dc2634",
+                            "id": "sceneSlot",
+                            "ext": ".jpg",
+                            "size": 32083
+                        }
+                    ],
+                    "main_core": [
+                        {
+                            "src": "assets/default/images/scale@0_6/en/main_core/tile9Fat4x4Bg.jpg?c=995e8ba45c",
+                            "id": "tile9Fat4x4Bg",
+                            "ext": ".jpg",
+                            "size": 3536
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_6/en/main_core/tile9Bg.jpg?c=327743d5f1",
+                            "id": "tile9Bg",
+                            "ext": ".jpg",
+                            "size": 970
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_6/en/main_core/tile8Fat4x4Bg.jpg?c=0302640eb0",
+                            "id": "tile8Fat4x4Bg",
+                            "ext": ".jpg",
+                            "size": 2948
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_6/en/main_core/tile8Bg.jpg?c=fe3f5d4e45",
+                            "id": "tile8Bg",
+                            "ext": ".jpg",
+                            "size": 972
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_6/en/main_core/tile7Fat4x4Bg.jpg?c=38d38c0860",
+                            "id": "tile7Fat4x4Bg",
+                            "ext": ".jpg",
+                            "size": 3279
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_6/en/main_core/tile7Bg.jpg?c=88ad40a93e",
+                            "id": "tile7Bg",
+                            "ext": ".jpg",
+                            "size": 878
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_6/en/main_core/tile6Fat4x4Bg.jpg?c=c20a238c4c",
+                            "id": "tile6Fat4x4Bg",
+                            "ext": ".jpg",
+                            "size": 3651
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_6/en/main_core/tile6Bg.jpg?c=76c7133b5f",
+                            "id": "tile6Bg",
+                            "ext": ".jpg",
+                            "size": 1021
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_6/en/main_core/tile5Fat4x4Bg.jpg?c=b17a22a9cf",
+                            "id": "tile5Fat4x4Bg",
+                            "ext": ".jpg",
+                            "size": 3009
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_6/en/main_core/tile5Bg.jpg?c=9925c5af84",
+                            "id": "tile5Bg",
+                            "ext": ".jpg",
+                            "size": 898
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_6/en/main_core/sceneSlotSpecial.jpg?c=6f807ab49f",
+                            "id": "sceneSlotSpecial",
+                            "ext": ".jpg",
+                            "size": 114411
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_6/en/main_core/sceneSlotDarken.jpg?c=d103134914",
+                            "id": "sceneSlotDarken",
+                            "ext": ".jpg",
+                            "size": 507
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_6/en/main_core/freeSpinsSplashFade.jpg?c=4d43267b60",
+                            "id": "freeSpinsSplashFade",
+                            "ext": ".jpg",
+                            "size": 506
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_6/en/main_core/anticipationWhiteShine.jpg?c=26350bdfb0",
+                            "id": "anticipationWhiteShine",
+                            "ext": ".jpg",
+                            "size": 504
+                        },
+                        {
+                            "src": "assets/default/images/scale@0_6/en/main_core/anticipationBaseBig.jpg?c=4a7bb27e7a",
+                            "id": "anticipationBaseBig",
+                            "ext": ".jpg",
+                            "size": 904
+                        }
+                    ]
+                }
+            },
+            "scale@1": {
+                "en": {
+                    "loader_core": [
+                        {
+                            "src": "assets/default/images/scale@1/en/loader_core/slot.jpg?c=1d7d987fdd",
+                            "id": "slot",
+                            "ext": ".jpg",
+                            "size": 16067
+                        },
+                        {
+                            "src": "assets/default/images/scale@1/en/loader_core/sceneSlot.jpg?c=390efb1d03",
+                            "id": "sceneSlot",
+                            "ext": ".jpg",
+                            "size": 83927
+                        }
+                    ],
+                    "main_core": [
+                        {
+                            "src": "assets/default/images/scale@1/en/main_core/tile9Fat4x4Bg.jpg?c=bc43e9a0ac",
+                            "id": "tile9Fat4x4Bg",
+                            "ext": ".jpg",
+                            "size": 6520
+                        },
+                        {
+                            "src": "assets/default/images/scale@1/en/main_core/tile9Bg.jpg?c=7064f5f183",
+                            "id": "tile9Bg",
+                            "ext": ".jpg",
+                            "size": 1506
+                        },
+                        {
+                            "src": "assets/default/images/scale@1/en/main_core/tile8Fat4x4Bg.jpg?c=700748e818",
+                            "id": "tile8Fat4x4Bg",
+                            "ext": ".jpg",
+                            "size": 5377
+                        },
+                        {
+                            "src": "assets/default/images/scale@1/en/main_core/tile8Bg.jpg?c=96d4fa74e7",
+                            "id": "tile8Bg",
+                            "ext": ".jpg",
+                            "size": 1448
+                        },
+                        {
+                            "src": "assets/default/images/scale@1/en/main_core/tile7Fat4x4Bg.jpg?c=caaadba42e",
+                            "id": "tile7Fat4x4Bg",
+                            "ext": ".jpg",
+                            "size": 6409
+                        },
+                        {
+                            "src": "assets/default/images/scale@1/en/main_core/tile7Bg.jpg?c=432628334e",
+                            "id": "tile7Bg",
+                            "ext": ".jpg",
+                            "size": 1415
+                        },
+                        {
+                            "src": "assets/default/images/scale@1/en/main_core/tile6Fat4x4Bg.jpg?c=782154b2a9",
+                            "id": "tile6Fat4x4Bg",
+                            "ext": ".jpg",
+                            "size": 6945
+                        },
+                        {
+                            "src": "assets/default/images/scale@1/en/main_core/tile6Bg.jpg?c=4366bae95a",
+                            "id": "tile6Bg",
+                            "ext": ".jpg",
+                            "size": 1659
+                        },
+                        {
+                            "src": "assets/default/images/scale@1/en/main_core/tile5Fat4x4Bg.jpg?c=7de009af2d",
+                            "id": "tile5Fat4x4Bg",
+                            "ext": ".jpg",
+                            "size": 5485
+                        },
+                        {
+                            "src": "assets/default/images/scale@1/en/main_core/tile5Bg.jpg?c=39eacea3ec",
+                            "id": "tile5Bg",
+                            "ext": ".jpg",
+                            "size": 1416
+                        },
+                        {
+                            "src": "assets/default/images/scale@1/en/main_core/sceneSlotSpecial.jpg?c=07ea9b7acf",
+                            "id": "sceneSlotSpecial",
+                            "ext": ".jpg",
+                            "size": 243530
+                        },
+                        {
+                            "src": "assets/default/images/scale@1/en/main_core/sceneSlotDarken.jpg?c=ad92a0db1d",
+                            "id": "sceneSlotDarken",
+                            "ext": ".jpg",
+                            "size": 515
+                        },
+                        {
+                            "src": "assets/default/images/scale@1/en/main_core/freeSpinsSplashFade.jpg?c=bce6bcab13",
+                            "id": "freeSpinsSplashFade",
+                            "ext": ".jpg",
+                            "size": 515
+                        },
+                        {
+                            "src": "assets/default/images/scale@1/en/main_core/anticipationWhiteShine.jpg?c=cbb4aaf0c5",
+                            "id": "anticipationWhiteShine",
+                            "ext": ".jpg",
+                            "size": 511
+                        },
+                        {
+                            "src": "assets/default/images/scale@1/en/main_core/anticipationBaseBig.jpg?c=8bf7ef4947",
+                            "id": "anticipationBaseBig",
+                            "ext": ".jpg",
+                            "size": 1053
+                        }
+                    ]
+                }
+            }
+        },
+        "page": {
+            "favicons": [
+                {
+                    "src": "assets/default/page/favicons/safari-pinned-tab.svg?c=813e9b89a3",
+                    "id": "safari-pinned-tab",
+                    "ext": ".svg",
+                    "size": 8777
+                },
+                {
+                    "src": "assets/default/page/favicons/mstile-150x150.png?c=1ef8f05796",
+                    "id": "mstile-150x150",
+                    "ext": ".png",
+                    "size": 11380
+                },
+                {
+                    "src": "assets/default/page/favicons/favicon.ico?c=edbc258bdf",
+                    "id": "favicon",
+                    "ext": ".ico",
+                    "size": 4121
+                },
+                {
+                    "src": "assets/default/page/favicons/favicon-32x32.png?c=edbc258bdf",
+                    "id": "favicon-32x32",
+                    "ext": ".png",
+                    "size": 4121
+                },
+                {
+                    "src": "assets/default/page/favicons/favicon-16x16.png?c=46bc71fc1a",
+                    "id": "favicon-16x16",
+                    "ext": ".png",
+                    "size": 3280
+                },
+                {
+                    "src": "assets/default/page/favicons/apple-touch-icon.png?c=9c08f436cc",
+                    "id": "apple-touch-icon",
+                    "ext": ".png",
+                    "size": 16400
+                },
+                {
+                    "src": "assets/default/page/favicons/android-chrome-256x256.png?c=2ce247d52f",
+                    "id": "android-chrome-256x256",
+                    "ext": ".png",
+                    "size": 23081
+                },
+                {
+                    "src": "assets/default/page/favicons/android-chrome-192x192.png?c=40d80bac70",
+                    "id": "android-chrome-192x192",
+                    "ext": ".png",
+                    "size": 17346
+                }
+            ]
+        },
+        "shapes": {
+            "loader": [
+                {
+                    "src": "assets/default/shapes/loader/Paytable.shapes.txt?c=f80eae3ce2",
+                    "id": "Paytable.shapes",
+                    "ext": ".txt",
+                    "size": 58
+                }
+            ],
+            "main": [
+                {
+                    "src": "assets/default/shapes/main/WinTiles.shapes.txt?c=d7f0f13dfc",
+                    "id": "WinTiles.shapes",
+                    "ext": ".txt",
+                    "size": 167
+                },
+                {
+                    "src": "assets/default/shapes/main/WinLines.shapes.txt?c=7665cfd308",
+                    "id": "WinLines.shapes",
+                    "ext": ".txt",
+                    "size": 23
+                },
+                {
+                    "src": "assets/default/shapes/main/WinLabels.shapes.txt?c=a4439513b0",
+                    "id": "WinLabels.shapes",
+                    "ext": ".txt",
+                    "size": 120
+                },
+                {
+                    "src": "assets/default/shapes/main/Wild.shapes.txt?c=2f190e3d6d",
+                    "id": "Wild.shapes",
+                    "ext": ".txt",
+                    "size": 63
+                },
+                {
+                    "src": "assets/default/shapes/main/Tiles.shapes.txt?c=3beeabb5ec",
+                    "id": "Tiles.shapes",
+                    "ext": ".txt",
+                    "size": 107
+                },
+                {
+                    "src": "assets/default/shapes/main/ReelMaster.shapes.txt?c=a7251eee96",
+                    "id": "ReelMaster.shapes",
+                    "ext": ".txt",
+                    "size": 51
+                },
+                {
+                    "src": "assets/default/shapes/main/PopupTiles.shapes.txt?c=53cee95a64",
+                    "id": "PopupTiles.shapes",
+                    "ext": ".txt",
+                    "size": 203
+                },
+                {
+                    "src": "assets/default/shapes/main/Multiplier.shapes.txt?c=3699824f71",
+                    "id": "Multiplier.shapes",
+                    "ext": ".txt",
+                    "size": 86
+                },
+                {
+                    "src": "assets/default/shapes/main/HitEffect.shapes.txt?c=51790dba33",
+                    "id": "HitEffect.shapes",
+                    "ext": ".txt",
+                    "size": 35
+                },
+                {
+                    "src": "assets/default/shapes/main/Game.shapes.txt?c=b26f39db68",
+                    "id": "Game.shapes",
+                    "ext": ".txt",
+                    "size": 58
+                },
+                {
+                    "src": "assets/default/shapes/main/FreeSpinsStatus.shapes.txt?c=ff06f6b20d",
+                    "id": "FreeSpinsStatus.shapes",
+                    "ext": ".txt",
+                    "size": 62
+                },
+                {
+                    "src": "assets/default/shapes/main/FreeSpinsStartScreen.shapes.txt?c=836e1c315d",
+                    "id": "FreeSpinsStartScreen.shapes",
+                    "ext": ".txt",
+                    "size": 84
+                },
+                {
+                    "src": "assets/default/shapes/main/ExtraWin.shapes.txt?c=8304e13f04",
+                    "id": "ExtraWin.shapes",
+                    "ext": ".txt",
+                    "size": 174
+                },
+                {
+                    "src": "assets/default/shapes/main/CenterCoins.shapes.txt?c=24ccf18593",
+                    "id": "CenterCoins.shapes",
+                    "ext": ".txt",
+                    "size": 26
+                },
+                {
+                    "src": "assets/default/shapes/main/CascadeTiles.shapes.txt?c=a2e925455b",
+                    "id": "CascadeTiles.shapes",
+                    "ext": ".txt",
+                    "size": 61
+                },
+                {
+                    "src": "assets/default/shapes/main/Background.shapes.txt?c=6beabc541e",
+                    "id": "Background.shapes",
+                    "ext": ".txt",
+                    "size": 48
+                },
+                {
+                    "src": "assets/default/shapes/main/Anticipation.shapes.txt?c=592b1d26d7",
+                    "id": "Anticipation.shapes",
+                    "ext": ".txt",
+                    "size": 30
+                },
+                {
+                    "src": "assets/default/shapes/main/AnimatedParticles.shapes.txt?c=c46a8e6a59",
+                    "id": "AnimatedParticles.shapes",
+                    "ext": ".txt",
+                    "size": 25
+                }
+            ],
+            "paytable": [
+                {
+                    "src": "assets/default/shapes/paytable/PaytableScreens.shapes.txt?c=de8cea90d0",
+                    "id": "PaytableScreens.shapes",
+                    "ext": ".txt",
+                    "size": 60
+                }
+            ]
+        },
+        "sounds": {
+            "en": {
+                "main": [
+                    {
+                        "src": "assets/default/sounds/en/main/sounds.json?c=54a2e7b13e",
+                        "id": "sounds",
+                        "ext": ".json",
+                        "size": 4551
+                    }
+                ]
+            }
+        },
+        "sounds-mobile": {
+            "en": {
+                "main": [
+                    {
+                        "src": "assets/default/sounds-mobile/en/main/sounds.json?c=41b7545951",
+                        "id": "sounds",
+                        "ext": ".json",
+                        "size": 4565
+                    }
+                ]
+            }
+        },
+        "spine": {
+            "main": [
+                {
+                    "src": "assets/default/spine/main/gameIntro.json?c=5f85416b1a",
+                    "id": "gameIntro",
+                    "ext": ".json",
+                    "size": 125356
+                },
+                {
+                    "src": "assets/default/spine/main/Transition.json?c=0446a7e586",
+                    "id": "Transition",
+                    "ext": ".json",
+                    "size": 60556
+                },
+                {
+                    "src": "assets/default/spine/main/ExtraWinBackgrounds.json?c=986d13208b",
+                    "id": "ExtraWinBackgrounds",
+                    "ext": ".json",
+                    "size": 91935
+                },
+                {
+                    "src": "assets/default/spine/main/BackgroundSpine.json?c=037bd428a6",
+                    "id": "BackgroundSpine",
+                    "ext": ".json",
+                    "size": 59883
+                }
+            ]
+        },
+        "spriteSheets": {
+            "scale@0_4": {
+                "cs": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/cs/loader/loader_default_atlas_0.json?c=691ca252ee",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2901
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/cs/main/main_default_atlas_0.json?c=256153572b",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5570
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/cs/paytable/paytable_default_atlas_0.json?c=f53a827dc2",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ]
+                },
+                "da": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/da/loader/loader_default_atlas_0.json?c=acbadf6616",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2906
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/da/main/main_default_atlas_0.json?c=453a7cf5ac",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5573
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/da/paytable/paytable_default_atlas_0.json?c=bb1eded49e",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2220
+                        }
+                    ]
+                },
+                "de": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/de/loader/loader_default_atlas_0.json?c=66e5e6df2e",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2899
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/de/main/main_default_atlas_0.json?c=ca76ba93fd",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5575
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/de/paytable/paytable_default_atlas_0.json?c=ad464bffe2",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2220
+                        }
+                    ]
+                },
+                "el": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/el/loader/loader_default_atlas_0.json?c=7b1dbf3a42",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2904
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/el/main/main_default_atlas_0.json?c=82e3b8df64",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5573
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/el/paytable/paytable_default_atlas_0.json?c=6366346a3f",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2220
+                        }
+                    ]
+                },
+                "en": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/en/loader/loader_default_atlas_0.json?c=c9f66b0f39",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2233
+                        }
+                    ],
+                    "loader_core": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/en/loader_core/loader_core_scene_atlas_0.json?c=ee2d23ee36",
+                            "id": "loader_core_scene_atlas_0",
+                            "ext": ".json",
+                            "size": 532
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/en/loader_core/loader_core_no_compression_atlas_0.json?c=a1d9da14e2",
+                            "id": "loader_core_no_compression_atlas_0",
+                            "ext": ".json",
+                            "size": 544
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/en/loader_core/loader_core_default_atlas_0.json?c=d0c91f8167",
+                            "id": "loader_core_default_atlas_0",
+                            "ext": ".json",
+                            "size": 10193
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/en/main/main_default_atlas_0.json?c=de74a7d6e7",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 4905
+                        }
+                    ],
+                    "main_core": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/en/main_core/main_core_tiles_atlas_0.json?c=362d02f650",
+                            "id": "main_core_tiles_atlas_0",
+                            "ext": ".json",
+                            "size": 6310
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/en/main_core/main_core_splashFs_atlas_0.json?c=32f607d112",
+                            "id": "main_core_splashFs_atlas_0",
+                            "ext": ".json",
+                            "size": 539
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/en/main_core/main_core_no_compression_atlas_0.json?c=38debb5cb9",
+                            "id": "main_core_no_compression_atlas_0",
+                            "ext": ".json",
+                            "size": 11509
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/en/main_core/main_core_default_atlas_0.json?c=7cfd1d029f",
+                            "id": "main_core_default_atlas_0",
+                            "ext": ".json",
+                            "size": 116264
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/en/paytable/paytable_default_atlas_0.json?c=865b409ae5",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ],
+                    "paytable_core": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/en/paytable_core/paytable_core_default_atlas_0.json?c=079cc0e1f7",
+                            "id": "paytable_core_default_atlas_0",
+                            "ext": ".json",
+                            "size": 868
+                        }
+                    ]
+                },
+                "es": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/es/loader/loader_default_atlas_0.json?c=5d19682ae2",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2905
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/es/main/main_default_atlas_0.json?c=734bfee7f5",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5571
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/es/paytable/paytable_default_atlas_0.json?c=09f6af69a9",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2222
+                        }
+                    ]
+                },
+                "es-PE": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/es-PE/loader/loader_default_atlas_0.json?c=913452ccfb",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2898
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/es-PE/main/main_default_atlas_0.json?c=675ad93025",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5570
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/es-PE/paytable/paytable_default_atlas_0.json?c=9c2f491d6e",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2222
+                        }
+                    ]
+                },
+                "fi": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/fi/loader/loader_default_atlas_0.json?c=9786fe6dc5",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2899
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/fi/main/main_default_atlas_0.json?c=b825dc3018",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5583
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/fi/paytable/paytable_default_atlas_0.json?c=7ec4a2e3c1",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ]
+                },
+                "fr": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/fr/loader/loader_default_atlas_0.json?c=96bf825312",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2903
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/fr/main/main_default_atlas_0.json?c=ce3b4f38c2",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5575
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/fr/paytable/paytable_default_atlas_0.json?c=7c5bbaaa84",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ]
+                },
+                "hi": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/hi/loader/loader_default_atlas_0.json?c=4561203e92",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2904
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/hi/main/main_default_atlas_0.json?c=999d6f6d7f",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5579
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/hi/paytable/paytable_default_atlas_0.json?c=6396bdb1ba",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2222
+                        }
+                    ]
+                },
+                "hr": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/hr/loader/loader_default_atlas_0.json?c=3a3cf62245",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2906
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/hr/main/main_default_atlas_0.json?c=39389d5e5a",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5577
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/hr/paytable/paytable_default_atlas_0.json?c=a4dc2f5275",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ]
+                },
+                "hu": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/hu/loader/loader_default_atlas_0.json?c=0c25b55736",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2895
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/hu/main/main_default_atlas_0.json?c=d101409a6a",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5585
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/hu/paytable/paytable_default_atlas_0.json?c=d952bced8d",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2220
+                        }
+                    ]
+                },
+                "hy": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/hy/loader/loader_default_atlas_0.json?c=3dc4b03ccd",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2903
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/hy/main/main_default_atlas_0.json?c=2fd4f8c931",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5574
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/hy/paytable/paytable_default_atlas_0.json?c=0ec50adfe5",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ]
+                },
+                "id": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/id/loader/loader_default_atlas_0.json?c=d13b697542",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2903
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/id/main/main_default_atlas_0.json?c=a5e2aef890",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5572
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/id/paytable/paytable_default_atlas_0.json?c=f051e45dad",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ]
+                },
+                "it": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/it/loader/loader_default_atlas_0.json?c=b085014999",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2905
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/it/main/main_default_atlas_0.json?c=f6696e9b2c",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5580
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/it/paytable/paytable_default_atlas_0.json?c=ebda95a228",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ]
+                },
+                "ja": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/ja/loader/loader_default_atlas_0.json?c=44ce4bb8bf",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2896
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/ja/main/main_default_atlas_0.json?c=c0e52aaa2e",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5577
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/ja/paytable/paytable_default_atlas_0.json?c=989641f608",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2218
+                        }
+                    ]
+                },
+                "ka": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/ka/loader/loader_default_atlas_0.json?c=41f860e3bd",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2908
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/ka/main/main_default_atlas_0.json?c=87b15a14e3",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5575
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/ka/paytable/paytable_default_atlas_0.json?c=8259113155",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2220
+                        }
+                    ]
+                },
+                "ko": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/ko/loader/loader_default_atlas_0.json?c=a3e692a1fd",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2901
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/ko/main/main_default_atlas_0.json?c=d5faada7fa",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5581
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/ko/paytable/paytable_default_atlas_0.json?c=8ad7a91b57",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2220
+                        }
+                    ]
+                },
+                "ms": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/ms/loader/loader_default_atlas_0.json?c=d28ff624af",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2906
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/ms/main/main_default_atlas_0.json?c=7700016a5e",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5576
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/ms/paytable/paytable_default_atlas_0.json?c=85062849d9",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ]
+                },
+                "nl": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/nl/loader/loader_default_atlas_0.json?c=ace0ab90a0",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2900
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/nl/main/main_default_atlas_0.json?c=fe20b4de33",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5572
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/nl/paytable/paytable_default_atlas_0.json?c=93cdd2440c",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ]
+                },
+                "no": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/no/loader/loader_default_atlas_0.json?c=18e2bbc9aa",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2906
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/no/main/main_default_atlas_0.json?c=a1cdb78cad",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5573
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/no/paytable/paytable_default_atlas_0.json?c=4b4f438391",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ]
+                },
+                "pl": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/pl/loader/loader_default_atlas_0.json?c=919cd887c5",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2897
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/pl/main/main_default_atlas_0.json?c=1333655da8",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5568
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/pl/paytable/paytable_default_atlas_0.json?c=878ca4ebcf",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ]
+                },
+                "pt": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/pt/loader/loader_default_atlas_0.json?c=ca5f20db9c",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2896
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/pt/main/main_default_atlas_0.json?c=9ffd1b74a8",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5573
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/pt/paytable/paytable_default_atlas_0.json?c=add04fd481",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2220
+                        }
+                    ]
+                },
+                "pt-BR": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/pt-BR/loader/loader_default_atlas_0.json?c=b7b7051dbd",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2895
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/pt-BR/main/main_default_atlas_0.json?c=cdc2062b38",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5579
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/pt-BR/paytable/paytable_default_atlas_0.json?c=6c49f96974",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ]
+                },
+                "ru": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/ru/loader/loader_default_atlas_0.json?c=7c0fcb0fd3",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2900
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/ru/main/main_default_atlas_0.json?c=8c09e2df6b",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5572
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/ru/paytable/paytable_default_atlas_0.json?c=73e5798366",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ]
+                },
+                "sk": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/sk/loader/loader_default_atlas_0.json?c=5aa542e836",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2899
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/sk/main/main_default_atlas_0.json?c=3539ea2654",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5573
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/sk/paytable/paytable_default_atlas_0.json?c=797d58ae59",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ]
+                },
+                "sl": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/sl/loader/loader_default_atlas_0.json?c=37a1949c35",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2905
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/sl/main/main_default_atlas_0.json?c=a0dd195d6a",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5577
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/sl/paytable/paytable_default_atlas_0.json?c=f04afd6e8c",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ]
+                },
+                "sv": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/sv/loader/loader_default_atlas_0.json?c=d2077d76a7",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2902
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/sv/main/main_default_atlas_0.json?c=ceaa0b17fc",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5569
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/sv/paytable/paytable_default_atlas_0.json?c=cd12742df5",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2220
+                        }
+                    ]
+                },
+                "th": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/th/loader/loader_default_atlas_0.json?c=2f5d3c8139",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2900
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/th/main/main_default_atlas_0.json?c=91dcdb0c55",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5577
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/th/paytable/paytable_default_atlas_0.json?c=23ef3fcb7d",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2220
+                        }
+                    ]
+                },
+                "tr": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/tr/loader/loader_default_atlas_0.json?c=e36cfc738b",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2905
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/tr/main/main_default_atlas_0.json?c=615dac14b0",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5580
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/tr/paytable/paytable_default_atlas_0.json?c=68674e5137",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2219
+                        }
+                    ]
+                },
+                "vi": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/vi/loader/loader_default_atlas_0.json?c=6994019b48",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2901
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/vi/main/main_default_atlas_0.json?c=43658263bf",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5580
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/vi/paytable/paytable_default_atlas_0.json?c=883f520af8",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2221
+                        }
+                    ]
+                },
+                "zh": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/zh/loader/loader_default_atlas_0.json?c=09df3806fd",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2901
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/zh/main/main_default_atlas_0.json?c=9a722792ef",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5579
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/zh/paytable/paytable_default_atlas_0.json?c=60bb1f2623",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2218
+                        }
+                    ]
+                },
+                "zh-TW": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/zh-TW/loader/loader_default_atlas_0.json?c=b13d11e3fc",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2901
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/zh-TW/main/main_default_atlas_0.json?c=cd2197685f",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5580
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_4/zh-TW/paytable/paytable_default_atlas_0.json?c=8fb5654845",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2218
+                        }
+                    ]
+                }
+            },
+            "scale@0_6": {
+                "cs": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/cs/loader/loader_default_atlas_0.json?c=4fb71e6f69",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2913
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/cs/main/main_default_atlas_0.json?c=a6f89990e0",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5587
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/cs/paytable/paytable_default_atlas_0.json?c=5b64c41c15",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2225
+                        }
+                    ]
+                },
+                "da": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/da/loader/loader_default_atlas_0.json?c=23ec636a80",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2912
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/da/main/main_default_atlas_0.json?c=cf5015862f",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5602
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/da/paytable/paytable_default_atlas_0.json?c=fd295ce0a9",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2226
+                        }
+                    ]
+                },
+                "de": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/de/loader/loader_default_atlas_0.json?c=5b93c814fa",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2908
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/de/main/main_default_atlas_0.json?c=ee87b5fed0",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5592
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/de/paytable/paytable_default_atlas_0.json?c=65750f8495",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2226
+                        }
+                    ]
+                },
+                "el": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/el/loader/loader_default_atlas_0.json?c=1b83a8c58e",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2914
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/el/main/main_default_atlas_0.json?c=0ceaf501d4",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5589
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/el/paytable/paytable_default_atlas_0.json?c=09ed36bd32",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2226
+                        }
+                    ]
+                },
+                "en": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/en/loader/loader_default_atlas_0.json?c=0c02ac126e",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2239
+                        }
+                    ],
+                    "loader_core": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/en/loader_core/loader_core_scene_atlas_0.json?c=bc8acea5dd",
+                            "id": "loader_core_scene_atlas_0",
+                            "ext": ".json",
+                            "size": 533
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/en/loader_core/loader_core_no_compression_atlas_0.json?c=1074589bc7",
+                            "id": "loader_core_no_compression_atlas_0",
+                            "ext": ".json",
+                            "size": 547
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/en/loader_core/loader_core_default_atlas_0.json?c=635b56ad5e",
+                            "id": "loader_core_default_atlas_0",
+                            "ext": ".json",
+                            "size": 10189
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/en/main/main_default_atlas_0.json?c=271ab79b3d",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 4917
+                        }
+                    ],
+                    "main_core": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/en/main_core/main_core_tiles_atlas_0.json?c=9a7327a630",
+                            "id": "main_core_tiles_atlas_0",
+                            "ext": ".json",
+                            "size": 6330
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/en/main_core/main_core_splashFs_atlas_0.json?c=e730360e82",
+                            "id": "main_core_splashFs_atlas_0",
+                            "ext": ".json",
+                            "size": 539
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/en/main_core/main_core_no_compression_atlas_0.json?c=5253278dc0",
+                            "id": "main_core_no_compression_atlas_0",
+                            "ext": ".json",
+                            "size": 11552
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/en/main_core/main_core_default_atlas_1.json?c=3684b7e2ac",
+                            "id": "main_core_default_atlas_1",
+                            "ext": ".json",
+                            "size": 52017
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/en/main_core/main_core_default_atlas_0.json?c=f563db596c",
+                            "id": "main_core_default_atlas_0",
+                            "ext": ".json",
+                            "size": 64663
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/en/paytable/paytable_default_atlas_0.json?c=b2444a22bd",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2227
+                        }
+                    ],
+                    "paytable_core": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/en/paytable_core/paytable_core_default_atlas_0.json?c=09168aa869",
+                            "id": "paytable_core_default_atlas_0",
+                            "ext": ".json",
+                            "size": 868
+                        }
+                    ]
+                },
+                "es": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/es/loader/loader_default_atlas_0.json?c=94344c2c4e",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2913
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/es/main/main_default_atlas_0.json?c=bdaeb0808c",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5600
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/es/paytable/paytable_default_atlas_0.json?c=1dd1a26aba",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2226
+                        }
+                    ]
+                },
+                "es-PE": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/es-PE/loader/loader_default_atlas_0.json?c=fe4ab7d156",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2906
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/es-PE/main/main_default_atlas_0.json?c=f3be9678f4",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5588
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/es-PE/paytable/paytable_default_atlas_0.json?c=fd6240f015",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2226
+                        }
+                    ]
+                },
+                "fi": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/fi/loader/loader_default_atlas_0.json?c=4ede1c4e6c",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2906
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/fi/main/main_default_atlas_0.json?c=dcf104d4c5",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5596
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/fi/paytable/paytable_default_atlas_0.json?c=617ccdeb70",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2225
+                        }
+                    ]
+                },
+                "fr": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/fr/loader/loader_default_atlas_0.json?c=67417e5809",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2912
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/fr/main/main_default_atlas_0.json?c=e78ef674a9",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5598
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/fr/paytable/paytable_default_atlas_0.json?c=2b20bc247c",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2226
+                        }
+                    ]
+                },
+                "hi": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/hi/loader/loader_default_atlas_0.json?c=661c2afdb5",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2913
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/hi/main/main_default_atlas_0.json?c=96f4b9c389",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5606
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/hi/paytable/paytable_default_atlas_0.json?c=f26474f226",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2225
+                        }
+                    ]
+                },
+                "hr": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/hr/loader/loader_default_atlas_0.json?c=e74f2449e2",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2915
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/hr/main/main_default_atlas_0.json?c=c8ffe0767d",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5590
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/hr/paytable/paytable_default_atlas_0.json?c=7dea8e8454",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2225
+                        }
+                    ]
+                },
+                "hu": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/hu/loader/loader_default_atlas_0.json?c=78523c2fcf",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2906
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/hu/main/main_default_atlas_0.json?c=4cfc1b7006",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5601
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/hu/paytable/paytable_default_atlas_0.json?c=a7c987ae53",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2226
+                        }
+                    ]
+                },
+                "hy": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/hy/loader/loader_default_atlas_0.json?c=68e52316dc",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2915
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/hy/main/main_default_atlas_0.json?c=6021b9e8dc",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5592
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/hy/paytable/paytable_default_atlas_0.json?c=d393dfc86b",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2226
+                        }
+                    ]
+                },
+                "id": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/id/loader/loader_default_atlas_0.json?c=b22c424530",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2914
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/id/main/main_default_atlas_0.json?c=cd9f20fb0c",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5600
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/id/paytable/paytable_default_atlas_0.json?c=78e7b2d157",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2225
+                        }
+                    ]
+                },
+                "it": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/it/loader/loader_default_atlas_0.json?c=b2a86ee96c",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2911
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/it/main/main_default_atlas_0.json?c=31ec267990",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5598
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/it/paytable/paytable_default_atlas_0.json?c=9fa8bc1382",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2225
+                        }
+                    ]
+                },
+                "ja": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/ja/loader/loader_default_atlas_0.json?c=9613d8769a",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2909
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/ja/main/main_default_atlas_0.json?c=40e5fb9cac",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5600
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/ja/paytable/paytable_default_atlas_0.json?c=83717a9fb4",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2225
+                        }
+                    ]
+                },
+                "ka": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/ka/loader/loader_default_atlas_0.json?c=eabede3d50",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2908
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/ka/main/main_default_atlas_0.json?c=dca86894e1",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5598
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/ka/paytable/paytable_default_atlas_0.json?c=d6a5c0d9ee",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2226
+                        }
+                    ]
+                },
+                "ko": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/ko/loader/loader_default_atlas_0.json?c=ca027f1604",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2913
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/ko/main/main_default_atlas_0.json?c=080b1da298",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5597
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/ko/paytable/paytable_default_atlas_0.json?c=60f178fb89",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2226
+                        }
+                    ]
+                },
+                "ms": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/ms/loader/loader_default_atlas_0.json?c=8117db2cb5",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2912
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/ms/main/main_default_atlas_0.json?c=6b0061ae3d",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5605
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/ms/paytable/paytable_default_atlas_0.json?c=77cc50d83c",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2225
+                        }
+                    ]
+                },
+                "nl": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/nl/loader/loader_default_atlas_0.json?c=73b9353f9c",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2907
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/nl/main/main_default_atlas_0.json?c=80df5c4c49",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5585
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/nl/paytable/paytable_default_atlas_0.json?c=b372d3278b",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2226
+                        }
+                    ]
+                },
+                "no": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/no/loader/loader_default_atlas_0.json?c=32b77370da",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2911
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/no/main/main_default_atlas_0.json?c=dc93464ce5",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5595
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/no/paytable/paytable_default_atlas_0.json?c=e3f2e1c373",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2225
+                        }
+                    ]
+                },
+                "pl": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/pl/loader/loader_default_atlas_0.json?c=36c74f272c",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2907
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/pl/main/main_default_atlas_0.json?c=575c9f5db4",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5586
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/pl/paytable/paytable_default_atlas_0.json?c=19a2127b9e",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2225
+                        }
+                    ]
+                },
+                "pt": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/pt/loader/loader_default_atlas_0.json?c=2c5437a577",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2906
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/pt/main/main_default_atlas_0.json?c=e3868aacb9",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5591
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/pt/paytable/paytable_default_atlas_0.json?c=1747200fd2",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2226
+                        }
+                    ]
+                },
+                "pt-BR": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/pt-BR/loader/loader_default_atlas_0.json?c=4157338ee4",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2909
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/pt-BR/main/main_default_atlas_0.json?c=60ed7dc5a5",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5591
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/pt-BR/paytable/paytable_default_atlas_0.json?c=e672f8f310",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2226
+                        }
+                    ]
+                },
+                "ru": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/ru/loader/loader_default_atlas_0.json?c=9f4d327f01",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2904
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/ru/main/main_default_atlas_0.json?c=e467a8836b",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5589
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/ru/paytable/paytable_default_atlas_0.json?c=b3338c9142",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2226
+                        }
+                    ]
+                },
+                "sk": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/sk/loader/loader_default_atlas_0.json?c=9bafaa75a6",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2908
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/sk/main/main_default_atlas_0.json?c=ad8bbd3a34",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5590
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/sk/paytable/paytable_default_atlas_0.json?c=8d73e5abe2",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2225
+                        }
+                    ]
+                },
+                "sl": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/sl/loader/loader_default_atlas_0.json?c=cffda2afa5",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2914
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/sl/main/main_default_atlas_0.json?c=2b9d5a3ee7",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5597
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/sl/paytable/paytable_default_atlas_0.json?c=827485f7ad",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2225
+                        }
+                    ]
+                },
+                "sv": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/sv/loader/loader_default_atlas_0.json?c=aa3bcbc0f7",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2913
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/sv/main/main_default_atlas_0.json?c=1aab791e04",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5590
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/sv/paytable/paytable_default_atlas_0.json?c=12461ac0cf",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2226
+                        }
+                    ]
+                },
+                "th": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/th/loader/loader_default_atlas_0.json?c=1fa559a53e",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2910
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/th/main/main_default_atlas_0.json?c=1b075aedcb",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5601
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/th/paytable/paytable_default_atlas_0.json?c=452d7eadbd",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2225
+                        }
+                    ]
+                },
+                "tr": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/tr/loader/loader_default_atlas_0.json?c=1576db50f1",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2912
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/tr/main/main_default_atlas_0.json?c=944191925b",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5610
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/tr/paytable/paytable_default_atlas_0.json?c=e082c826de",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2225
+                        }
+                    ]
+                },
+                "vi": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/vi/loader/loader_default_atlas_0.json?c=523d382c4c",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2913
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/vi/main/main_default_atlas_0.json?c=ae7d0ead49",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5594
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/vi/paytable/paytable_default_atlas_0.json?c=52e18605b0",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2227
+                        }
+                    ]
+                },
+                "zh": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/zh/loader/loader_default_atlas_0.json?c=dbc0113c23",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2911
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/zh/main/main_default_atlas_0.json?c=3980bb1157",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5601
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/zh/paytable/paytable_default_atlas_0.json?c=dde5eb6dd7",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2225
+                        }
+                    ]
+                },
+                "zh-TW": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/zh-TW/loader/loader_default_atlas_0.json?c=bf5942e7ea",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2911
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/zh-TW/main/main_default_atlas_0.json?c=3bde2970a8",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5600
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@0_6/zh-TW/paytable/paytable_default_atlas_0.json?c=1192c19fef",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2225
+                        }
+                    ]
+                }
+            },
+            "scale@1": {
+                "cs": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/cs/loader/loader_default_atlas_0.json?c=b7fdb240b9",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2931
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/cs/main/main_default_atlas_0.json?c=115c4fec5f",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5625
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/cs/paytable/paytable_default_atlas_1.json?c=e8a28ac59a",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 529
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/cs/paytable/paytable_default_atlas_0.json?c=be95b0d4d9",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1899
+                        }
+                    ]
+                },
+                "da": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/da/loader/loader_default_atlas_0.json?c=02921a275b",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2933
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/da/main/main_default_atlas_0.json?c=04c86a79e5",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5636
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/da/paytable/paytable_default_atlas_1.json?c=c1ee3e9405",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 529
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/da/paytable/paytable_default_atlas_0.json?c=845f5bb3b6",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1898
+                        }
+                    ]
+                },
+                "de": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/de/loader/loader_default_atlas_0.json?c=ac0f5da501",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2928
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/de/main/main_default_atlas_0.json?c=b674ecb6ff",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5616
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/de/paytable/paytable_default_atlas_1.json?c=780ce89116",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/de/paytable/paytable_default_atlas_0.json?c=3c9336c084",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1554
+                        }
+                    ]
+                },
+                "el": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/el/loader/loader_default_atlas_0.json?c=7087da0ffc",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2932
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/el/main/main_default_atlas_0.json?c=23b7b1047e",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5622
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/el/paytable/paytable_default_atlas_1.json?c=1ee65b93b1",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/el/paytable/paytable_default_atlas_0.json?c=fba3e940e3",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "en": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/loader/loader_default_atlas_0.json?c=04054df218",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2253
+                        }
+                    ],
+                    "loader_core": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/loader_core/loader_core_scene_atlas_0.json?c=0029b9a4c4",
+                            "id": "loader_core_scene_atlas_0",
+                            "ext": ".json",
+                            "size": 535
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/loader_core/loader_core_no_compression_atlas_0.json?c=cde6a39f92",
+                            "id": "loader_core_no_compression_atlas_0",
+                            "ext": ".json",
+                            "size": 545
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/loader_core/loader_core_default_atlas_1.json?c=08273c7f5e",
+                            "id": "loader_core_default_atlas_1",
+                            "ext": ".json",
+                            "size": 2952
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/loader_core/loader_core_default_atlas_0.json?c=a4e7d3b0d6",
+                            "id": "loader_core_default_atlas_0",
+                            "ext": ".json",
+                            "size": 7467
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/main/main_default_atlas_0.json?c=dc6201ebf6",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 4959
+                        }
+                    ],
+                    "main_core": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/main_core/main_core_tiles_atlas_0.json?c=c69687f82a",
+                            "id": "main_core_tiles_atlas_0",
+                            "ext": ".json",
+                            "size": 6378
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/main_core/main_core_splashFs_atlas_0.json?c=f93d0fdb94",
+                            "id": "main_core_splashFs_atlas_0",
+                            "ext": ".json",
+                            "size": 538
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/main_core/main_core_no_compression_atlas_0.json?c=f0ec69d529",
+                            "id": "main_core_no_compression_atlas_0",
+                            "ext": ".json",
+                            "size": 11623
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/main_core/main_core_default_atlas_4.json?c=85bd7fb76f",
+                            "id": "main_core_default_atlas_4",
+                            "ext": ".json",
+                            "size": 13253
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/main_core/main_core_default_atlas_3.json?c=e82d8f703f",
+                            "id": "main_core_default_atlas_3",
+                            "ext": ".json",
+                            "size": 29070
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/main_core/main_core_default_atlas_2.json?c=b4ecf01908",
+                            "id": "main_core_default_atlas_2",
+                            "ext": ".json",
+                            "size": 22726
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/main_core/main_core_default_atlas_1.json?c=ef3e09b719",
+                            "id": "main_core_default_atlas_1",
+                            "ext": ".json",
+                            "size": 27046
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/main_core/main_core_default_atlas_0.json?c=c1e9cbf6be",
+                            "id": "main_core_default_atlas_0",
+                            "ext": ".json",
+                            "size": 25600
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/paytable/paytable_default_atlas_1.json?c=faedae14ae",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 529
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/paytable/paytable_default_atlas_0.json?c=a8766155c2",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1898
+                        }
+                    ],
+                    "paytable_core": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/en/paytable_core/paytable_core_default_atlas_0.json?c=2ec7f43590",
+                            "id": "paytable_core_default_atlas_0",
+                            "ext": ".json",
+                            "size": 869
+                        }
+                    ]
+                },
+                "es": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/es/loader/loader_default_atlas_0.json?c=d45f1ab014",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2927
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/es/main/main_default_atlas_0.json?c=2684205ed0",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5630
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/es/paytable/paytable_default_atlas_1.json?c=528d14438d",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 530
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/es/paytable/paytable_default_atlas_0.json?c=a66e749897",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1898
+                        }
+                    ]
+                },
+                "es-PE": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/es-PE/loader/loader_default_atlas_0.json?c=aad0892cd0",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2923
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/es-PE/main/main_default_atlas_0.json?c=08980f7095",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5620
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/es-PE/paytable/paytable_default_atlas_1.json?c=89bfb648be",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 530
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/es-PE/paytable/paytable_default_atlas_0.json?c=691d3815dc",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1898
+                        }
+                    ]
+                },
+                "fi": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/fi/loader/loader_default_atlas_0.json?c=7aa5cc191e",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2921
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/fi/main/main_default_atlas_0.json?c=927a721268",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5630
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/fi/paytable/paytable_default_atlas_1.json?c=12661aae68",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/fi/paytable/paytable_default_atlas_0.json?c=d16ffae853",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "fr": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/fr/loader/loader_default_atlas_0.json?c=e687166b5f",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2931
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/fr/main/main_default_atlas_0.json?c=5adac31f0f",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5631
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/fr/paytable/paytable_default_atlas_1.json?c=702d3a53f8",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/fr/paytable/paytable_default_atlas_0.json?c=4a4a1db8ff",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "hi": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/hi/loader/loader_default_atlas_0.json?c=75dcffa8bc",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2937
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/hi/main/main_default_atlas_0.json?c=5a3ea5a875",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5636
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/hi/paytable/paytable_default_atlas_1.json?c=6c0fd40632",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 870
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/hi/paytable/paytable_default_atlas_0.json?c=36b136bbc7",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "hr": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/hr/loader/loader_default_atlas_0.json?c=f3b105759e",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2927
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/hr/main/main_default_atlas_0.json?c=62a66992a1",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5633
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/hr/paytable/paytable_default_atlas_1.json?c=ea9b8064e9",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/hr/paytable/paytable_default_atlas_0.json?c=e8b6a7ba0a",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "hu": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/hu/loader/loader_default_atlas_0.json?c=a3e8d1fa45",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2926
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/hu/main/main_default_atlas_0.json?c=67d827611d",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5629
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/hu/paytable/paytable_default_atlas_1.json?c=3f6efea0e5",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/hu/paytable/paytable_default_atlas_0.json?c=e6679c21c9",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1554
+                        }
+                    ]
+                },
+                "hy": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/hy/loader/loader_default_atlas_0.json?c=76e446cf89",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2929
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/hy/main/main_default_atlas_0.json?c=a73abd83ca",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5629
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/hy/paytable/paytable_default_atlas_1.json?c=7663a44c30",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/hy/paytable/paytable_default_atlas_0.json?c=5b78180524",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1554
+                        }
+                    ]
+                },
+                "id": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/id/loader/loader_default_atlas_0.json?c=aca6883b52",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2928
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/id/main/main_default_atlas_0.json?c=edd4aaa215",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5636
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/id/paytable/paytable_default_atlas_1.json?c=e00653106b",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/id/paytable/paytable_default_atlas_0.json?c=22f9e09ccf",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "it": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/it/loader/loader_default_atlas_0.json?c=0e8b72dc20",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2925
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/it/main/main_default_atlas_0.json?c=ecb25a7d2f",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5634
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/it/paytable/paytable_default_atlas_1.json?c=acf6071994",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/it/paytable/paytable_default_atlas_0.json?c=2a77c40825",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "ja": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ja/loader/loader_default_atlas_0.json?c=6777a2f5cb",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2929
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ja/main/main_default_atlas_0.json?c=e3cd605ff6",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5644
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ja/paytable/paytable_default_atlas_1.json?c=055746bdf5",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ja/paytable/paytable_default_atlas_0.json?c=b8b806a0c5",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "ka": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ka/loader/loader_default_atlas_0.json?c=fb2f356645",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2928
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ka/main/main_default_atlas_0.json?c=c84bafdcdd",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5642
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ka/paytable/paytable_default_atlas_1.json?c=53eb87da48",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ka/paytable/paytable_default_atlas_0.json?c=aeff97bbde",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "ko": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ko/loader/loader_default_atlas_0.json?c=8c8fc85529",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2937
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ko/main/main_default_atlas_0.json?c=e04aa85275",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5629
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ko/paytable/paytable_default_atlas_1.json?c=cfde86275d",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ko/paytable/paytable_default_atlas_0.json?c=f2360e2e60",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1554
+                        }
+                    ]
+                },
+                "ms": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ms/loader/loader_default_atlas_0.json?c=542afbba92",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2932
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ms/main/main_default_atlas_0.json?c=2afa1c87e7",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5635
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ms/paytable/paytable_default_atlas_1.json?c=0728ede14c",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ms/paytable/paytable_default_atlas_0.json?c=211193e19d",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "nl": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/nl/loader/loader_default_atlas_0.json?c=d3fe77b320",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2925
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/nl/main/main_default_atlas_0.json?c=bcd33187bb",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5623
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/nl/paytable/paytable_default_atlas_1.json?c=2c20a264ae",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/nl/paytable/paytable_default_atlas_0.json?c=590315f727",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "no": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/no/loader/loader_default_atlas_0.json?c=5267116412",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2933
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/no/main/main_default_atlas_0.json?c=6b534cc696",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5625
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/no/paytable/paytable_default_atlas_1.json?c=a17b82bae7",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/no/paytable/paytable_default_atlas_0.json?c=c6e50add0e",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "pl": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/pl/loader/loader_default_atlas_0.json?c=8e943853d0",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2926
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/pl/main/main_default_atlas_0.json?c=6b87fe09bb",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5617
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/pl/paytable/paytable_default_atlas_1.json?c=4e4bccd63e",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/pl/paytable/paytable_default_atlas_0.json?c=4386a8c319",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "pt": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/pt/loader/loader_default_atlas_0.json?c=7ef6d3bfa1",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2925
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/pt/main/main_default_atlas_0.json?c=431cc1a0be",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5631
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/pt/paytable/paytable_default_atlas_1.json?c=db3e1fe926",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/pt/paytable/paytable_default_atlas_0.json?c=194c611e1a",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "pt-BR": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/pt-BR/loader/loader_default_atlas_0.json?c=0ee5e65abd",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2930
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/pt-BR/main/main_default_atlas_0.json?c=8c56799a69",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5625
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/pt-BR/paytable/paytable_default_atlas_1.json?c=bb52ba23e3",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/pt-BR/paytable/paytable_default_atlas_0.json?c=55ce9e8045",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "ru": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ru/loader/loader_default_atlas_0.json?c=1318014076",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2925
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ru/main/main_default_atlas_0.json?c=7f0bfdf928",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5619
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ru/paytable/paytable_default_atlas_1.json?c=1c1cbf0ad8",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/ru/paytable/paytable_default_atlas_0.json?c=2561aa2a71",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "sk": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/sk/loader/loader_default_atlas_0.json?c=799bb27ba6",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2924
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/sk/main/main_default_atlas_0.json?c=b72070cba2",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5627
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/sk/paytable/paytable_default_atlas_1.json?c=b933f462e3",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/sk/paytable/paytable_default_atlas_0.json?c=f35b63bf07",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1554
+                        }
+                    ]
+                },
+                "sl": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/sl/loader/loader_default_atlas_0.json?c=5ad04e4c1a",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2931
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/sl/main/main_default_atlas_0.json?c=25415dba6e",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5631
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/sl/paytable/paytable_default_atlas_1.json?c=6cbe961501",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/sl/paytable/paytable_default_atlas_0.json?c=63eb59ab87",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1554
+                        }
+                    ]
+                },
+                "sv": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/sv/loader/loader_default_atlas_0.json?c=71e7c0e929",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2929
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/sv/main/main_default_atlas_0.json?c=6c53b2199e",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5632
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/sv/paytable/paytable_default_atlas_1.json?c=92d0e39ac3",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/sv/paytable/paytable_default_atlas_0.json?c=c7ba5960c5",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "th": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/th/loader/loader_default_atlas_0.json?c=e4769b5f12",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2930
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/th/main/main_default_atlas_0.json?c=60904c4822",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5639
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/th/paytable/paytable_default_atlas_1.json?c=2056ccfc5e",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/th/paytable/paytable_default_atlas_0.json?c=a803e7e87b",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "tr": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/tr/loader/loader_default_atlas_0.json?c=d6fde20e3e",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2929
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/tr/main/main_default_atlas_0.json?c=dd136977c8",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5635
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/tr/paytable/paytable_default_atlas_1.json?c=2512beb38c",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/tr/paytable/paytable_default_atlas_0.json?c=b04391005e",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1554
+                        }
+                    ]
+                },
+                "vi": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/vi/loader/loader_default_atlas_0.json?c=d1a2d88f63",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2940
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/vi/main/main_default_atlas_0.json?c=b8a203bddd",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5642
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/vi/paytable/paytable_default_atlas_1.json?c=a1b25f1a82",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/vi/paytable/paytable_default_atlas_0.json?c=b45c0b440d",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1554
+                        }
+                    ]
+                },
+                "zh": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/zh/loader/loader_default_atlas_0.json?c=06caa3663c",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2931
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/zh/main/main_default_atlas_0.json?c=035c1cec10",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5628
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/zh/paytable/paytable_default_atlas_1.json?c=b2c409e60e",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/zh/paytable/paytable_default_atlas_0.json?c=6a2fcdec42",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                },
+                "zh-TW": {
+                    "loader": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/zh-TW/loader/loader_default_atlas_0.json?c=dfc7bc6a50",
+                            "id": "loader_default_atlas_0",
+                            "ext": ".json",
+                            "size": 2930
+                        }
+                    ],
+                    "main": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/zh-TW/main/main_default_atlas_0.json?c=8cf0636ded",
+                            "id": "main_default_atlas_0",
+                            "ext": ".json",
+                            "size": 5637
+                        }
+                    ],
+                    "paytable": [
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/zh-TW/paytable/paytable_default_atlas_1.json?c=fb6a1c4024",
+                            "id": "paytable_default_atlas_1",
+                            "ext": ".json",
+                            "size": 872
+                        },
+                        {
+                            "src": "assets/default/spriteSheets/scale@1/zh-TW/paytable/paytable_default_atlas_0.json?c=5251f4f5c9",
+                            "id": "paytable_default_atlas_0",
+                            "ext": ".json",
+                            "size": 1556
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "frames": {
+    "tile9Fist": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 115,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": -2,
+        "y": -2,
+        "w": 115,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 111,
+        "h": 141
+      }
+    }
+  },
+  "meta": {
+    "app": "PixiAnimate",
+    "scale": 1,
+    "image": "main_core_yellow_atlas_0.png?c=bef2010579",
+    "size": {
+      "w": 128,
+      "h": 256
+    }
+  }
+}
